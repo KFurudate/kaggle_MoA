@@ -6,6 +6,10 @@ https://www.kaggle.com/c/lish-moa
 
 Evaluation: log loss
 
+In this competition, we have a dataset that combines gene expression and cell viability data. 
+The data were measured simultaneously human cells’ responses to drugs in a pool of 100 different cell types.
+Our aim is to solve the issue of identifying ex-ante, which cell types are better suited for a given drug.in this dataset.
+
 ## 20201008
 - [download benchmark notebooks](/kaggle_notebooks/)
 
