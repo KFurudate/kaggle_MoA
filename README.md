@@ -11,7 +11,6 @@ Evaluation: log loss
 
 ## 20201009
 - EDA
-  train_features.csv
   - g- signify gene expression.
   - c- signify cell viability. 
   - cp_type indicates samples treated with a compound (cp_vehicle) or with a control perturbation (ctrl_vehicle); control perturbations have no MoAs.
