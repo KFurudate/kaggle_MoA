@@ -4,5 +4,16 @@
 
 https://www.kaggle.com/c/lish-moa
 
+Evaluation: log loss
+
 ## 20201008
 - [download benchmark notebooks](/kaggle_notebooks/)
+
+## 20201009
+- EDA
+  train_features.csv
+  - g- signify gene expression.
+  - c- signify cell viability. 
+  - cp_type indicates samples treated with a compound (cp_vehicle) or with a control perturbation (ctrl_vehicle); control perturbations have no MoAs.
+  - cp_time indicates treatment duration (24, 48, 72 hours) 
+  - cp_dose indicate dose (high or low).
