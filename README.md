@@ -20,3 +20,6 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - cp_type indicates samples treated with a compound (cp_vehicle) or with a control perturbation (ctrl_vehicle); control perturbations have no MoAs.
   - cp_time indicates treatment duration (24, 48, 72 hours) 
   - cp_dose indicate dose (high or low).
+- [20201009_MoA: LGBM Benchmark.v1.ipynb](notebooks/20201009-moa-lgbm-benchmark-v1.ipynb)
+  - starter model
+  - reference: https://www.kaggle.com/sishihara/moa-lgbm-benchmark#Preprocessing
