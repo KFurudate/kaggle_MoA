@@ -29,4 +29,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [MLSMOTE- Approaching imbalanced multilabel learning throughsynthetic instance generation](https://www.sciencedirect.com/science/article/pii/S0950705115002737)
   - reference: https://www.kaggle.com/c/lish-moa/discussion/187419
  
+- [Discovering the anticancer potential of non-oncology drugs by systematic viability profiling](https://www.nature.com/articles/s43018-019-0018-6)
+- [A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles](https://www.sciencedirect.com/science/article/pii/S0092867417313090?via%3Dihub)
+ 
   
