@@ -37,6 +37,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
  
 ## 20201011
 - 20201011_MoA: LGBM Benchmark.v3
+  - CV:0.08026184269986397
   - A Debug mode was added to increase the number of experiments.
   - reference:https://zenn.dev/fkubota/articles/2b8d46b11c178ac2fa2d
 
