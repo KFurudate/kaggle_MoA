@@ -26,6 +26,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201010
 - [I'd like to try MLSOMOTE](kaggle_notebooks/upsampling-multilabel-data-with-mlsmote.ipynb)
-  - [MLSMOTE- Approaching imbalanced multilabel learning throughsynthetic instance generation](articles)
+  - [MLSMOTE- Approaching imbalanced multilabel learning throughsynthetic instance generation](https://www.sciencedirect.com/science/article/pii/S0950705115002737)
   - reference: https://www.kaggle.com/c/lish-moa/discussion/187419
+ 
   
