@@ -23,3 +23,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 - [20201009_MoA: LGBM Benchmark.v1.ipynb](notebooks/20201009-moa-lgbm-benchmark-v1.ipynb)
   - starter model
   - reference: https://www.kaggle.com/sishihara/moa-lgbm-benchmark#Preprocessing
+
+## 20201010
+- I'd like to try MLSOMOTE
+ - reference: https://www.kaggle.com/c/lish-moa/discussion/187419
