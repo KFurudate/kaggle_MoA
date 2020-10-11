@@ -36,8 +36,12 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 - [A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles](https://www.sciencedirect.com/science/article/pii/S0092867417313090?via%3Dihub)
  
 ## 20201011
-- 20201011_MoA: LGBM Benchmark.v3
-  - CV:0.08026184269986397
+- [20201011_MoA: LGBM Benchmark.v3](notebooks/20201011-moa-lgbm-benchmark-v3.ipynb)
   - A Debug mode was added to increase the number of experiments.
+  - CV:0.08026184269986397
+  - [log](log/log.v3.log)
   - reference:https://zenn.dev/fkubota/articles/2b8d46b11c178ac2fa2d
+  
+  ![feature_importance_v3](https://user-images.githubusercontent.com/50528980/95686104-8604fe80-0bc1-11eb-876a-de8e86ab92bf.png)
+
 
