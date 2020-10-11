@@ -25,7 +25,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - reference: https://www.kaggle.com/sishihara/moa-lgbm-benchmark#Preprocessing
 
 ## 20201010
-- 20201010-moa-lgbm-benchmark-v2.ipynb
+- [20201010-moa-lgbm-benchmark-v2.ipynb](notebooks/20201010-moa-lgbm-benchmark-v2.ipynb)
   - compare treat Vs.ctrl and minor modifications, StratifiedKFold
   
 - [I'd like to try MLSOMOTE](kaggle_notebooks/upsampling-multilabel-data-with-mlsmote.ipynb)
@@ -35,4 +35,5 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 - [Discovering the anticancer potential of non-oncology drugs by systematic viability profiling](https://www.nature.com/articles/s43018-019-0018-6)
 - [A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles](https://www.sciencedirect.com/science/article/pii/S0092867417313090?via%3Dihub)
  
-  
+## 20201011
+
