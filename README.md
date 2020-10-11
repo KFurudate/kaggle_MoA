@@ -25,5 +25,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - reference: https://www.kaggle.com/sishihara/moa-lgbm-benchmark#Preprocessing
 
 ## 20201010
-- I'd like to try MLSOMOTE
+- [I'd like to try MLSOMOTE](kaggle_notebooks/upsampling-multilabel-data-with-mlsmote.ipynb)
+  - [MLSMOTE- Approaching imbalanced multilabel learning throughsynthetic instance generation.pdf](articles/MLSMOTE- Approaching imbalanced multilabel learning throughsynthetic instance generation.pdf)
   - reference: https://www.kaggle.com/c/lish-moa/discussion/187419
+  
