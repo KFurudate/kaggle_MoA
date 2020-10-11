@@ -26,4 +26,4 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201010
 - I'd like to try MLSOMOTE
- - reference: https://www.kaggle.com/c/lish-moa/discussion/187419
+  - reference: https://www.kaggle.com/c/lish-moa/discussion/187419
