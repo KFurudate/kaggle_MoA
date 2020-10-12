@@ -45,7 +45,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   ![feature_importance_v3](https://user-images.githubusercontent.com/50528980/95686104-8604fe80-0bc1-11eb-876a-de8e86ab92bf.png)
 
 - [20201011-moa-lgbm-benchmark-v4.ipynb](notebooks/20201011-moa-lgbm-benchmark-v4.ipynb)
-  - Clipping a cntrol with an outlier
+  - Clipping a control with an outlier
   
   - Before → After
   <img width="279" alt="Screen Shot 2020-10-11 at 22 42 49" src="https://user-images.githubusercontent.com/50528980/95705834-cd6ba900-0c1a-11eb-9428-11a519709b2b.png">
