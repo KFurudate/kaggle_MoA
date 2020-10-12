@@ -48,8 +48,11 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - Clipping a control with an outlier
   
   - CV: 0.03667, LB: 
+  - [log](log/log.v4.log)
     
   - Before → After
   <img width="279" alt="Screen Shot 2020-10-11 at 22 42 49" src="https://user-images.githubusercontent.com/50528980/95705834-cd6ba900-0c1a-11eb-9428-11a519709b2b.png">
   <img width="279" alt="Screen Shot 2020-10-11 at 22 42 53" src="https://user-images.githubusercontent.com/50528980/95705880-f7bd6680-0c1a-11eb-839a-86a08aadfe14.png">
+  
+  ![feature_importance_v4](https://user-images.githubusercontent.com/50528980/95753394-2eb96980-0c67-11eb-80d2-b461401eed00.png)
 
