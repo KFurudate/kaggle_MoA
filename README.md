@@ -47,7 +47,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 - [20201011-moa-lgbm-benchmark-v4.ipynb](notebooks/20201011-moa-lgbm-benchmark-v4.ipynb)
   - Clipping a control with an outlier
   
-  - CV: 0.03667, LB: 
+  - CV: 0.03667, LB: 0.78780
   - [log](log/log.v4.log)
     
   - Before → After
