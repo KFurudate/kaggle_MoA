@@ -62,7 +62,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - CV:0.0412, LB: 0.63746
   - [log](log/log.v5.log)
   
-- [20201012drugs-classification-mechanisms-of-action.ipynb](notebooks/20201009-moa-lgbm-benchmark-v1.ipynb)
+- [20201012drugs-classification-mechanisms-of-action.ipynb](notebooks/20201012drugs-classification-mechanisms-of-action.ipynb)
   - EDA
   - First, I want to use a highly correlated target.
   <img width="341" alt="Screen Shot 2020-10-12 at 21 14 35" src="https://user-images.githubusercontent.com/50528980/95807922-f0f12b00-0cd0-11eb-87bf-6d8bcc874f10.png">
