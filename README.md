@@ -61,3 +61,12 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - Clipping a control with an outlier(20-80)
   - CV:0.0412, LB: 0.63746
   - [log](log/log.v5.log)
+  
+- [20201012drugs-classification-mechanisms-of-action.ipynb](notebooks/20201009-moa-lgbm-benchmark-v1.ipynb)
+  - EDA
+  - First, I want to use a highly correlated target.
+  <img width="341" alt="Screen Shot 2020-10-12 at 21 14 35" src="https://user-images.githubusercontent.com/50528980/95807922-f0f12b00-0cd0-11eb-87bf-6d8bcc874f10.png">
+
+  - Second, I want to use target correlation without score for learning.
+  <img width="433" alt="Screen Shot 2020-10-12 at 21 15 56" src="https://user-images.githubusercontent.com/50528980/95807874-d454f300-0cd0-11eb-932b-7f6fbbfdab9a.png">
+  - reference https://www.kaggle.com/amiiiney/drugs-classification-mechanisms-of-action
