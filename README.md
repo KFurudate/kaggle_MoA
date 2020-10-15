@@ -73,4 +73,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - reference https://www.kaggle.com/amiiiney/drugs-classification-mechanisms-of-action
 
 ## 20201015
-
+- [20201015-moa-lgbm-benchmark-v6.ipynb](notebooks/20201015-moa-lgbm-benchmark-v6.ipynb)
+  - under sampling 500 → oversamplling 500, lipping a control with an outlier(10-90)
+  - CV:0.04924, LB: 0.63746
+  - [log](log/log.v6.log)
