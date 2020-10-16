@@ -88,4 +88,4 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201016
 - It is not clear whether this makes sense or not.I decided to find drugs in non scored data that belong to the same category as the data with a low number of targets in the scored data.
-- reference: [薬理学電子教科書](https://drugacademy.atlassian.net/wiki/spaces/PHARMACOLO/overview?mode=global)
+  - reference: [薬理学電子教科書](https://drugacademy.atlassian.net/wiki/spaces/PHARMACOLO/overview?mode=global)
