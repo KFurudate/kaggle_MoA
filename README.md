@@ -78,5 +78,10 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - CV:0.04924, LB: 0.63746
   - [log](log/log.v6.log)
 
-- UMAP control
+- UMAP control data (upper: gene expression, lower: cell viability)
 <img width="346" alt="Screen Shot 2020-10-15 at 15 32 14" src="https://user-images.githubusercontent.com/50528980/96271245-44de6700-0f92-11eb-9899-90125db174d8.png">
+
+- UMAP train data (upper: gene expression, lower: cell viability)
+<img width="331" alt="Screen Shot 2020-10-15 at 15 32 03" src="https://user-images.githubusercontent.com/50528980/96271380-6d666100-0f92-11eb-822b-e11311deb6a7.png">
+
+  - Clustering with data-driven is going to be difficult to do.
