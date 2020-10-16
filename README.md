@@ -85,3 +85,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 <img width="331" alt="Screen Shot 2020-10-15 at 15 32 03" src="https://user-images.githubusercontent.com/50528980/96271380-6d666100-0f92-11eb-822b-e11311deb6a7.png">
 
   - Clustering with data-driven is going to be difficult to do.
+
+## 20201016
+- It is not clear whether this makes sense or not.I decided to find drugs in non scored data that belong to the same category as the data with a low number of targets in the scored data.
+- reference: [薬理学電子教科書](https://drugacademy.atlassian.net/wiki/spaces/PHARMACOLO/overview?mode=global)
