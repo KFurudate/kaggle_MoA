@@ -77,3 +77,6 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - under sampling 500 → oversamplling 500, lipping a control with an outlier(10-90)
   - CV:0.04924, LB: 0.63746
   - [log](log/log.v6.log)
+
+- UMAP control
+<img width="346" alt="Screen Shot 2020-10-15 at 15 32 14" src="https://user-images.githubusercontent.com/50528980/96271245-44de6700-0f92-11eb-9899-90125db174d8.png">
