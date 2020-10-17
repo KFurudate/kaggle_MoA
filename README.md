@@ -91,3 +91,6 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - reference: [薬理学電子教科書](https://drugacademy.atlassian.net/wiki/spaces/PHARMACOLO/overview?mode=global)
   
   <img width="935" alt="Screen Shot 2020-10-16 at 21 01 12" src="https://user-images.githubusercontent.com/50528980/96326019-ccf45900-0ff2-11eb-8f2f-a511cb0c6598.png">
+  
+- [I want to use Pseudo Labeling](kaggle_notebooks/pseudo-labeling-qda-0-969.ipynb)
+  - reference:https://www.kaggle.com/cdeotte/pseudo-labeling-qda-0-969 
