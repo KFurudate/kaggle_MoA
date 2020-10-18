@@ -97,7 +97,8 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201017
 - [20201016-moa-lgbm-benchmark-v7.ipynb](notebooks/20201016-moa-lgbm-benchmark-v7.ipynb)
-  - I was not able to make it time within 9 hours in Kaggle's notebook, so I'll experiment with "Debug mode = False" in the local.
+  - I was not able to make it time within 9 hours in Kaggle's notebook, so I'll experiment with "Debug = False" in the local.
+  - CV:0.1286671, LB: (Debug = True)
 - [20201017-moa-lgbm-benchmark-v7.ipynb](notebooks/20201017-moa-lgbm-benchmark-v7.ipynb)
   
 
