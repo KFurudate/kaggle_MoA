@@ -1,0 +1,1854 @@
+5-alpha_reductase_inhibitor , len(trt) : 17
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+5-alpha_reductase_inhibitor logloss: 0.002914204487164366
+=========================================================================================
+11-beta-hsd1_inhibitor , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+11-beta-hsd1_inhibitor logloss: 0.01921937642013596
+=========================================================================================
+acat_inhibitor , len(trt) : 24
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+acat_inhibitor logloss: 0.04118744845021703
+=========================================================================================
+acetylcholine_receptor_agonist , len(trt) : 196
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+acetylcholine_receptor_agonist logloss: 0.4452455118345655
+=========================================================================================
+acetylcholine_receptor_antagonist , len(trt) : 307
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+acetylcholine_receptor_antagonist logloss: 0.5358791115228932
+=========================================================================================
+acetylcholinesterase_inhibitor , len(trt) : 73
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+acetylcholinesterase_inhibitor logloss: 0.20152547635166757
+=========================================================================================
+adenosine_receptor_agonist , len(trt) : 54
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+adenosine_receptor_agonist logloss: 0.13223759992414716
+=========================================================================================
+adenosine_receptor_antagonist , len(trt) : 96
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+adenosine_receptor_antagonist logloss: 0.25193942197054614
+=========================================================================================
+adenylyl_cyclase_activator , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+adenylyl_cyclase_activator logloss: 0.003976479714727091
+=========================================================================================
+adrenergic_receptor_agonist , len(trt) : 270
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+adrenergic_receptor_agonist logloss: 0.49634344188149127
+=========================================================================================
+adrenergic_receptor_antagonist , len(trt) : 360
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+adrenergic_receptor_antagonist logloss: 0.6121229762010245
+=========================================================================================
+akt_inhibitor , len(trt) : 66
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+akt_inhibitor logloss: 0.1029311448276434
+=========================================================================================
+aldehyde_dehydrogenase_inhibitor , len(trt) : 19
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+aldehyde_dehydrogenase_inhibitor logloss: 0.004925838377415073
+=========================================================================================
+alk_inhibitor , len(trt) : 42
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+alk_inhibitor logloss: 0.03350281016328811
+=========================================================================================
+ampk_activator , len(trt) : 12
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+ampk_activator logloss: 0.012053610985506905
+=========================================================================================
+analgesic , len(trt) : 12
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+analgesic logloss: 0.0183663104632926
+=========================================================================================
+androgen_receptor_agonist , len(trt) : 48
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+androgen_receptor_agonist logloss: 0.11621586518945623
+=========================================================================================
+androgen_receptor_antagonist , len(trt) : 89
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+androgen_receptor_antagonist logloss: 0.22097769099462772
+=========================================================================================
+anesthetic_-_local , len(trt) : 80
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+anesthetic_-_local logloss: 0.18570315369255921
+=========================================================================================
+angiogenesis_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+angiogenesis_inhibitor logloss: 0.08443101580674921
+=========================================================================================
+angiotensin_receptor_antagonist , len(trt) : 128
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+angiotensin_receptor_antagonist logloss: 0.322461042151167
+=========================================================================================
+anti-inflammatory , len(trt) : 145
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+anti-inflammatory logloss: 0.3137494397229154
+=========================================================================================
+antiarrhythmic , len(trt) : 104
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+antiarrhythmic logloss: 0.22645377422865404
+=========================================================================================
+antibiotic , len(trt) : 43
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+antibiotic logloss: 0.05866406903441704
+=========================================================================================
+anticonvulsant , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+anticonvulsant logloss: 0.017125783752716398
+=========================================================================================
+antifungal , len(trt) : 26
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+antifungal logloss: 0.024535006973104522
+=========================================================================================
+antihistamine , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+antihistamine logloss: 0.016105938731097936
+=========================================================================================
+antimalarial , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+antimalarial logloss: 0.0031675595212000557
+=========================================================================================
+antioxidant , len(trt) : 73
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+antioxidant logloss: 0.17273072865410116
+=========================================================================================
+antiprotozoal , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+antiprotozoal logloss: 0.04138714525553637
+=========================================================================================
+antiviral , len(trt) : 23
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+antiviral logloss: 0.017155149392654088
+=========================================================================================
+apoptosis_stimulant , len(trt) : 110
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+apoptosis_stimulant logloss: 0.2501816575187813
+=========================================================================================
+aromatase_inhibitor , len(trt) : 47
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+aromatase_inhibitor logloss: 0.09828441018404288
+=========================================================================================
+atm_kinase_inhibitor , len(trt) : 157
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+atm_kinase_inhibitor logloss: 0.21898610044122782
+=========================================================================================
+atp-sensitive_potassium_channel_antagonist , len(trt) : 7
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+atp-sensitive_potassium_channel_antagonist logloss: 0.002440078337724997
+=========================================================================================
+atp_synthase_inhibitor , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+atp_synthase_inhibitor logloss: 0.02204948641528554
+=========================================================================================
+atpase_inhibitor , len(trt) : 97
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+atpase_inhibitor logloss: 0.24793828136202103
+=========================================================================================
+atr_kinase_inhibitor , len(trt) : 43
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+atr_kinase_inhibitor logloss: 0.021308162346732933
+=========================================================================================
+aurora_kinase_inhibitor , len(trt) : 96
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+aurora_kinase_inhibitor logloss: 0.07645238635372793
+=========================================================================================
+autotaxin_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+autotaxin_inhibitor logloss: 0.04494416552235574
+=========================================================================================
+bacterial_30s_ribosomal_subunit_inhibitor , len(trt) : 60
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bacterial_30s_ribosomal_subunit_inhibitor logloss: 0.15466964437786787
+=========================================================================================
+bacterial_50s_ribosomal_subunit_inhibitor , len(trt) : 80
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bacterial_50s_ribosomal_subunit_inhibitor logloss: 0.13798003575201717
+=========================================================================================
+bacterial_antifolate , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bacterial_antifolate logloss: 0.0777796698573587
+=========================================================================================
+bacterial_cell_wall_synthesis_inhibitor , len(trt) : 192
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bacterial_cell_wall_synthesis_inhibitor logloss: 0.44841632331998665
+=========================================================================================
+bacterial_dna_gyrase_inhibitor , len(trt) : 89
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bacterial_dna_gyrase_inhibitor logloss: 0.20356972074321023
+=========================================================================================
+bacterial_dna_inhibitor , len(trt) : 115
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bacterial_dna_inhibitor logloss: 0.3141390209568533
+=========================================================================================
+bacterial_membrane_integrity_inhibitor , len(trt) : 19
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bacterial_membrane_integrity_inhibitor logloss: 0.022594278903747968
+=========================================================================================
+bcl_inhibitor , len(trt) : 31
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bcl_inhibitor logloss: 0.021884135640938385
+=========================================================================================
+bcr-abl_inhibitor , len(trt) : 63
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bcr-abl_inhibitor logloss: 0.11730454769696459
+=========================================================================================
+benzodiazepine_receptor_agonist , len(trt) : 67
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+benzodiazepine_receptor_agonist logloss: 0.16171644757395506
+=========================================================================================
+beta_amyloid_inhibitor , len(trt) : 24
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+beta_amyloid_inhibitor logloss: 0.02123235803139138
+=========================================================================================
+bromodomain_inhibitor , len(trt) : 68
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+bromodomain_inhibitor logloss: 0.06337853219140478
+=========================================================================================
+btk_inhibitor , len(trt) : 29
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+btk_inhibitor logloss: 0.015180374448018095
+=========================================================================================
+calcineurin_inhibitor , len(trt) : 12
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+calcineurin_inhibitor logloss: 0.004554033495916597
+=========================================================================================
+calcium_channel_blocker , len(trt) : 281
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+calcium_channel_blocker logloss: 0.5295415774641249
+=========================================================================================
+cannabinoid_receptor_agonist , len(trt) : 42
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cannabinoid_receptor_agonist logloss: 0.0632152714123803
+=========================================================================================
+cannabinoid_receptor_antagonist , len(trt) : 55
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cannabinoid_receptor_antagonist logloss: 0.17701381038001848
+=========================================================================================
+carbonic_anhydrase_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+carbonic_anhydrase_inhibitor logloss: 0.0563015631006129
+=========================================================================================
+casein_kinase_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+casein_kinase_inhibitor logloss: 0.06460409194027958
+=========================================================================================
+caspase_activator , len(trt) : 55
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+caspase_activator logloss: 0.08869468233062235
+=========================================================================================
+catechol_o_methyltransferase_inhibitor , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+catechol_o_methyltransferase_inhibitor logloss: 0.0053818160934197366
+=========================================================================================
+cc_chemokine_receptor_antagonist , len(trt) : 102
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cc_chemokine_receptor_antagonist logloss: 0.2576977021877087
+=========================================================================================
+cck_receptor_antagonist , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cck_receptor_antagonist logloss: 0.012872641787949135
+=========================================================================================
+cdk_inhibitor , len(trt) : 352
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cdk_inhibitor logloss: 0.2582775785681514
+=========================================================================================
+chelating_agent , len(trt) : 54
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+chelating_agent logloss: 0.0765672034164138
+=========================================================================================
+chk_inhibitor , len(trt) : 43
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+chk_inhibitor logloss: 0.021308162346732933
+=========================================================================================
+chloride_channel_blocker , len(trt) : 42
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+chloride_channel_blocker logloss: 0.05978400419204531
+=========================================================================================
+cholesterol_inhibitor , len(trt) : 48
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cholesterol_inhibitor logloss: 0.16958963967014118
+=========================================================================================
+cholinergic_receptor_antagonist , len(trt) : 54
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cholinergic_receptor_antagonist logloss: 0.08245422964255597
+=========================================================================================
+coagulation_factor_inhibitor , len(trt) : 24
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+coagulation_factor_inhibitor logloss: 0.008528470947738441
+=========================================================================================
+corticosteroid_agonist , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+corticosteroid_agonist logloss: 0.02544746618710133
+=========================================================================================
+cyclooxygenase_inhibitor , len(trt) : 435
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cyclooxygenase_inhibitor logloss: 0.6270378612311558
+=========================================================================================
+cytochrome_p450_inhibitor , len(trt) : 104
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+cytochrome_p450_inhibitor logloss: 0.2682243147354983
+=========================================================================================
+dihydrofolate_reductase_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+dihydrofolate_reductase_inhibitor logloss: 0.0316212400105148
+=========================================================================================
+dipeptidyl_peptidase_inhibitor , len(trt) : 25
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+dipeptidyl_peptidase_inhibitor logloss: 0.011603906175289815
+=========================================================================================
+diuretic , len(trt) : 6
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+diuretic logloss: 0.0005351956876349621
+=========================================================================================
+dna_alkylating_agent , len(trt) : 48
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+dna_alkylating_agent logloss: 0.08566731453545852
+=========================================================================================
+dna_inhibitor , len(trt) : 402
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+dna_inhibitor logloss: 0.5940166884981364
+=========================================================================================
+dopamine_receptor_agonist , len(trt) : 127
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+dopamine_receptor_agonist logloss: 0.271048045976422
+=========================================================================================
+dopamine_receptor_antagonist , len(trt) : 424
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+dopamine_receptor_antagonist logloss: 0.6108460863528428
+=========================================================================================
+egfr_inhibitor , len(trt) : 336
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+egfr_inhibitor logloss: 0.23030500337516957
+=========================================================================================
+elastase_inhibitor , len(trt) : 12
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+elastase_inhibitor logloss: 0.006348604603990382
+=========================================================================================
+erbb2_inhibitor , len(trt) : 20
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+erbb2_inhibitor logloss: 0.021944853568882934
+=========================================================================================
+estrogen_receptor_agonist , len(trt) : 158
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+estrogen_receptor_agonist logloss: 0.3885255485781941
+=========================================================================================
+estrogen_receptor_antagonist , len(trt) : 48
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+estrogen_receptor_antagonist logloss: 0.06645964891649724
+=========================================================================================
+faah_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+faah_inhibitor logloss: 0.08148191960953842
+=========================================================================================
+farnesyltransferase_inhibitor , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+farnesyltransferase_inhibitor logloss: 0.028708575174415017
+=========================================================================================
+fatty_acid_receptor_agonist , len(trt) : 25
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+fatty_acid_receptor_agonist logloss: 0.01082390074649333
+=========================================================================================
+fgfr_inhibitor , len(trt) : 50
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+fgfr_inhibitor logloss: 0.059037955242023904
+=========================================================================================
+flt3_inhibitor , len(trt) : 279
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+flt3_inhibitor logloss: 0.22411554307099
+=========================================================================================
+focal_adhesion_kinase_inhibitor , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+focal_adhesion_kinase_inhibitor logloss: 0.0018075412240235722
+=========================================================================================
+free_radical_scavenger , len(trt) : 91
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+free_radical_scavenger logloss: 0.22326267234923766
+=========================================================================================
+fungal_squalene_epoxidase_inhibitor , len(trt) : 29
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+fungal_squalene_epoxidase_inhibitor logloss: 0.019270634399634307
+=========================================================================================
+gaba_receptor_agonist , len(trt) : 129
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+gaba_receptor_agonist logloss: 0.3606423751610501
+=========================================================================================
+gaba_receptor_antagonist , len(trt) : 171
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+gaba_receptor_antagonist logloss: 0.40469189492604357
+=========================================================================================
+gamma_secretase_inhibitor , len(trt) : 56
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+gamma_secretase_inhibitor logloss: 0.08072189021150644
+=========================================================================================
+glucocorticoid_receptor_agonist , len(trt) : 266
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+glucocorticoid_receptor_agonist logloss: 0.08483302064575912
+=========================================================================================
+glutamate_inhibitor , len(trt) : 13
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+glutamate_inhibitor logloss: 0.013851031943125482
+=========================================================================================
+glutamate_receptor_agonist , len(trt) : 80
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+glutamate_receptor_agonist logloss: 0.2335315768729414
+=========================================================================================
+glutamate_receptor_antagonist , len(trt) : 367
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+glutamate_receptor_antagonist logloss: 0.5787663859864081
+=========================================================================================
+gonadotropin_receptor_agonist , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+gonadotropin_receptor_agonist logloss: 0.009863219830685933
+=========================================================================================
+gsk_inhibitor , len(trt) : 60
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+gsk_inhibitor logloss: 0.025052736272251783
+=========================================================================================
+hcv_inhibitor , len(trt) : 72
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+hcv_inhibitor logloss: 0.1777594014295293
+=========================================================================================
+hdac_inhibitor , len(trt) : 106
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+hdac_inhibitor logloss: 0.055152994532926373
+=========================================================================================
+histamine_receptor_agonist , len(trt) : 59
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+histamine_receptor_agonist logloss: 0.1807344145911252
+=========================================================================================
+histamine_receptor_antagonist , len(trt) : 247
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+histamine_receptor_antagonist logloss: 0.5087436203111986
+=========================================================================================
+histone_lysine_demethylase_inhibitor , len(trt) : 49
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+histone_lysine_demethylase_inhibitor logloss: 0.08453039312280179
+=========================================================================================
+histone_lysine_methyltransferase_inhibitor , len(trt) : 32
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+histone_lysine_methyltransferase_inhibitor logloss: 0.02696348697620608
+=========================================================================================
+hiv_inhibitor , len(trt) : 78
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+hiv_inhibitor logloss: 0.199511001276607
+=========================================================================================
+hmgcr_inhibitor , len(trt) : 283
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+hmgcr_inhibitor logloss: 0.1153392707798057
+=========================================================================================
+hsp_inhibitor , len(trt) : 93
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+hsp_inhibitor logloss: 0.038457927794358866
+=========================================================================================
+igf-1_inhibitor , len(trt) : 37
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+igf-1_inhibitor logloss: 0.05547752701835255
+=========================================================================================
+ikk_inhibitor , len(trt) : 30
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+ikk_inhibitor logloss: 0.0572226966624577
+=========================================================================================
+imidazoline_receptor_agonist , len(trt) : 37
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+imidazoline_receptor_agonist logloss: 0.04394820134403693
+=========================================================================================
+immunosuppressant , len(trt) : 73
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+immunosuppressant logloss: 0.15094586836505614
+=========================================================================================
+insulin_secretagogue , len(trt) : 30
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+insulin_secretagogue logloss: 0.036443815037644246
+=========================================================================================
+insulin_sensitizer , len(trt) : 51
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+insulin_sensitizer logloss: 0.0627084712544622
+=========================================================================================
+integrin_inhibitor , len(trt) : 42
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+integrin_inhibitor logloss: 0.07080792481140531
+=========================================================================================
+jak_inhibitor , len(trt) : 92
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+jak_inhibitor logloss: 0.0777325765521372
+=========================================================================================
+kit_inhibitor , len(trt) : 273
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+kit_inhibitor logloss: 0.15842874101562274
+=========================================================================================
+laxative , len(trt) : 6
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+laxative logloss: 0.00029628652217060476
+=========================================================================================
+leukotriene_inhibitor , len(trt) : 67
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+leukotriene_inhibitor logloss: 0.1604354918339989
+=========================================================================================
+leukotriene_receptor_antagonist , len(trt) : 62
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+leukotriene_receptor_antagonist logloss: 0.13509866485108502
+=========================================================================================
+lipase_inhibitor , len(trt) : 12
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+lipase_inhibitor logloss: 0.0011575683436833807
+=========================================================================================
+lipoxygenase_inhibitor , len(trt) : 61
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+lipoxygenase_inhibitor logloss: 0.08198234696220956
+=========================================================================================
+lxr_agonist , len(trt) : 6
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+lxr_agonist logloss: 0.0056708699327084585
+=========================================================================================
+mdm_inhibitor , len(trt) : 31
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+mdm_inhibitor logloss: 0.04504157344239276
+=========================================================================================
+mek_inhibitor , len(trt) : 134
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+mek_inhibitor logloss: 0.16795249892067932
+=========================================================================================
+membrane_integrity_inhibitor , len(trt) : 74
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+membrane_integrity_inhibitor logloss: 0.17881774200024597
+=========================================================================================
+mineralocorticoid_receptor_antagonist , len(trt) : 25
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+mineralocorticoid_receptor_antagonist logloss: 0.01592813595804606
+=========================================================================================
+monoacylglycerol_lipase_inhibitor , len(trt) : 12
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+monoacylglycerol_lipase_inhibitor logloss: 0.005618825281384546
+=========================================================================================
+monoamine_oxidase_inhibitor , len(trt) : 85
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+monoamine_oxidase_inhibitor logloss: 0.19645858413917164
+=========================================================================================
+monopolar_spindle_1_kinase_inhibitor , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+monopolar_spindle_1_kinase_inhibitor logloss: 0.012258112865798072
+=========================================================================================
+mtor_inhibitor , len(trt) : 130
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+mtor_inhibitor logloss: 0.13053754648756272
+=========================================================================================
+mucolytic_agent , len(trt) : 48
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+mucolytic_agent logloss: 0.07270097552877322
+=========================================================================================
+neuropeptide_receptor_antagonist , len(trt) : 37
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+neuropeptide_receptor_antagonist logloss: 0.07823826326774377
+=========================================================================================
+nfkb_inhibitor , len(trt) : 832
+len(train_index) : 832
+len(valid_index) : 832
+================================= 1fold lightgbm =================================
+len(train_index) : 832
+len(valid_index) : 832
+================================= 2fold lightgbm =================================
+nfkb_inhibitor logloss: 0.2331162223791982
+=========================================================================================
+nicotinic_receptor_agonist , len(trt) : 12
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+nicotinic_receptor_agonist logloss: 0.006710413528356054
+=========================================================================================
+nitric_oxide_donor , len(trt) : 26
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+nitric_oxide_donor logloss: 0.04334326587589193
+=========================================================================================
+nitric_oxide_production_inhibitor , len(trt) : 29
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+nitric_oxide_production_inhibitor logloss: 0.036968148873648694
+=========================================================================================
+nitric_oxide_synthase_inhibitor , len(trt) : 26
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+nitric_oxide_synthase_inhibitor logloss: 0.05616602060628406
+=========================================================================================
+norepinephrine_reuptake_inhibitor , len(trt) : 43
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+norepinephrine_reuptake_inhibitor logloss: 0.0657993063100365
+=========================================================================================
+nrf2_activator , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+nrf2_activator logloss: 0.012968299668557993
+=========================================================================================
+opioid_receptor_agonist , len(trt) : 61
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+opioid_receptor_agonist logloss: 0.14360456374391029
+=========================================================================================
+opioid_receptor_antagonist , len(trt) : 96
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+opioid_receptor_antagonist logloss: 0.26853941321096775
+=========================================================================================
+orexin_receptor_antagonist , len(trt) : 37
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+orexin_receptor_antagonist logloss: 0.06535146771218196
+=========================================================================================
+p38_mapk_inhibitor , len(trt) : 62
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+p38_mapk_inhibitor logloss: 0.04906760213803506
+=========================================================================================
+p-glycoprotein_inhibitor , len(trt) : 30
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+p-glycoprotein_inhibitor logloss: 0.02372074210151085
+=========================================================================================
+parp_inhibitor , len(trt) : 61
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+parp_inhibitor logloss: 0.07767339324698673
+=========================================================================================
+pdgfr_inhibitor , len(trt) : 297
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+pdgfr_inhibitor logloss: 0.19380668430520864
+=========================================================================================
+pdk_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+pdk_inhibitor logloss: 0.039686745075052245
+=========================================================================================
+phosphodiesterase_inhibitor , len(trt) : 264
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+phosphodiesterase_inhibitor logloss: 0.4829255187380184
+=========================================================================================
+phospholipase_inhibitor , len(trt) : 25
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+phospholipase_inhibitor logloss: 0.0227970629180469
+=========================================================================================
+pi3k_inhibitor , len(trt) : 151
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+pi3k_inhibitor logloss: 0.17186981161186138
+=========================================================================================
+pkc_inhibitor , len(trt) : 31
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+pkc_inhibitor logloss: 0.0487014284796114
+=========================================================================================
+potassium_channel_activator , len(trt) : 67
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+potassium_channel_activator logloss: 0.18437732544465193
+=========================================================================================
+potassium_channel_antagonist , len(trt) : 110
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+potassium_channel_antagonist logloss: 0.2713888920418874
+=========================================================================================
+ppar_receptor_agonist , len(trt) : 115
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+ppar_receptor_agonist logloss: 0.18491068013847553
+=========================================================================================
+ppar_receptor_antagonist , len(trt) : 30
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+ppar_receptor_antagonist logloss: 0.03117615904811726
+=========================================================================================
+progesterone_receptor_agonist , len(trt) : 137
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+progesterone_receptor_agonist logloss: 0.3014036505372254
+=========================================================================================
+progesterone_receptor_antagonist , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+progesterone_receptor_antagonist logloss: 0.007976716114735322
+=========================================================================================
+prostaglandin_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+prostaglandin_inhibitor logloss: 0.05377343792741948
+=========================================================================================
+prostanoid_receptor_antagonist , len(trt) : 84
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+prostanoid_receptor_antagonist logloss: 0.21060489197537008
+=========================================================================================
+proteasome_inhibitor , len(trt) : 726
+len(train_index) : 726
+len(valid_index) : 726
+================================= 1fold lightgbm =================================
+len(train_index) : 726
+len(valid_index) : 726
+================================= 2fold lightgbm =================================
+proteasome_inhibitor logloss: 0.013501299626988419
+=========================================================================================
+protein_kinase_inhibitor , len(trt) : 48
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+protein_kinase_inhibitor logloss: 0.06588193730649737
+=========================================================================================
+protein_phosphatase_inhibitor , len(trt) : 24
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+protein_phosphatase_inhibitor logloss: 0.01864991956178418
+=========================================================================================
+protein_synthesis_inhibitor , len(trt) : 103
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+protein_synthesis_inhibitor logloss: 0.20108470749717183
+=========================================================================================
+protein_tyrosine_kinase_inhibitor , len(trt) : 43
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+protein_tyrosine_kinase_inhibitor logloss: 0.04955074663703296
+=========================================================================================
+radiopaque_medium , len(trt) : 56
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+radiopaque_medium logloss: 0.13618496330853988
+=========================================================================================
+raf_inhibitor , len(trt) : 223
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+raf_inhibitor logloss: 0.060474780105839315
+=========================================================================================
+ras_gtpase_inhibitor , len(trt) : 84
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+ras_gtpase_inhibitor logloss: 0.11144179984568929
+=========================================================================================
+retinoid_receptor_agonist , len(trt) : 67
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+retinoid_receptor_agonist logloss: 0.07362613538054667
+=========================================================================================
+retinoid_receptor_antagonist , len(trt) : 6
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+retinoid_receptor_antagonist logloss: 0.003163534127753276
+=========================================================================================
+rho_associated_kinase_inhibitor , len(trt) : 35
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+rho_associated_kinase_inhibitor logloss: 0.010869900606830777
+=========================================================================================
+ribonucleoside_reductase_inhibitor , len(trt) : 37
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+ribonucleoside_reductase_inhibitor logloss: 0.0380808733202999
+=========================================================================================
+rna_polymerase_inhibitor , len(trt) : 25
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+rna_polymerase_inhibitor logloss: 0.04467152734254027
+=========================================================================================
+serotonin_receptor_agonist , len(trt) : 236
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+serotonin_receptor_agonist logloss: 0.48915358459239927
+=========================================================================================
+serotonin_receptor_antagonist , len(trt) : 404
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+serotonin_receptor_antagonist logloss: 0.605421755822198
+=========================================================================================
+serotonin_reuptake_inhibitor , len(trt) : 80
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+serotonin_reuptake_inhibitor logloss: 0.18890932966093196
+=========================================================================================
+sigma_receptor_agonist , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+sigma_receptor_agonist logloss: 0.07085045898827858
+=========================================================================================
+sigma_receptor_antagonist , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+sigma_receptor_antagonist logloss: 0.06175833037223838
+=========================================================================================
+smoothened_receptor_antagonist , len(trt) : 25
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+smoothened_receptor_antagonist logloss: 0.029019221112163287
+=========================================================================================
+sodium_channel_inhibitor , len(trt) : 273
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+sodium_channel_inhibitor logloss: 0.548438711141837
+=========================================================================================
+sphingosine_receptor_agonist , len(trt) : 32
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+sphingosine_receptor_agonist logloss: 0.05571732557178622
+=========================================================================================
+src_inhibitor , len(trt) : 71
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+src_inhibitor logloss: 0.08776707050877196
+=========================================================================================
+steroid , len(trt) : 97
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+steroid logloss: 0.19992214357775873
+=========================================================================================
+syk_inhibitor , len(trt) : 19
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+syk_inhibitor logloss: 0.018037805907276685
+=========================================================================================
+tachykinin_antagonist , len(trt) : 60
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+tachykinin_antagonist logloss: 0.11826666826628764
+=========================================================================================
+tgf-beta_receptor_inhibitor , len(trt) : 30
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+tgf-beta_receptor_inhibitor logloss: 0.005240790649050409
+=========================================================================================
+thrombin_inhibitor , len(trt) : 19
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+thrombin_inhibitor logloss: 0.02102502504711896
+=========================================================================================
+thymidylate_synthase_inhibitor , len(trt) : 37
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+thymidylate_synthase_inhibitor logloss: 0.03587170915572295
+=========================================================================================
+tlr_agonist , len(trt) : 30
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+tlr_agonist logloss: 0.05570896648886698
+=========================================================================================
+tlr_antagonist , len(trt) : 7
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+tlr_antagonist logloss: 0.00010023637131285388
+=========================================================================================
+tnf_inhibitor , len(trt) : 36
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+tnf_inhibitor logloss: 0.05467683722721722
+=========================================================================================
+topoisomerase_inhibitor , len(trt) : 127
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+topoisomerase_inhibitor logloss: 0.13978116856274636
+=========================================================================================
+transient_receptor_potential_channel_antagonist , len(trt) : 18
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+transient_receptor_potential_channel_antagonist logloss: 0.009276989068488336
+=========================================================================================
+tropomyosin_receptor_kinase_inhibitor , len(trt) : 291
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+tropomyosin_receptor_kinase_inhibitor logloss: 0.42799047208684177
+=========================================================================================
+trpv_agonist , len(trt) : 25
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+trpv_agonist logloss: 0.025149786318098964
+=========================================================================================
+trpv_antagonist , len(trt) : 48
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+trpv_antagonist logloss: 0.1411334612177053
+=========================================================================================
+tubulin_inhibitor , len(trt) : 316
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+tubulin_inhibitor logloss: 0.18241033384990937
+=========================================================================================
+tyrosine_kinase_inhibitor , len(trt) : 73
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+tyrosine_kinase_inhibitor logloss: 0.17992837891220245
+=========================================================================================
+ubiquitin_specific_protease_inhibitor , len(trt) : 12
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+ubiquitin_specific_protease_inhibitor logloss: 0.0016258598576669677
+=========================================================================================
+vegfr_inhibitor , len(trt) : 170
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+vegfr_inhibitor logloss: 0.18673825284597076
+=========================================================================================
+vitamin_b , len(trt) : 26
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+vitamin_b logloss: 0.04186177020547656
+=========================================================================================
+vitamin_d_receptor_agonist , len(trt) : 39
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+vitamin_d_receptor_agonist logloss: 0.01843331994661164
+=========================================================================================
+wnt_inhibitor , len(trt) : 30
+len(train_index) : 500
+len(valid_index) : 500
+================================= 1fold lightgbm =================================
+len(train_index) : 500
+len(valid_index) : 500
+================================= 2fold lightgbm =================================
+wnt_inhibitor logloss: 0.032117898978949656
+=========================================================================================
