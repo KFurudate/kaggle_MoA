@@ -94,3 +94,6 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
 - [I want to use Pseudo Labeling](kaggle_notebooks/pseudo-labeling-qda-0-969.ipynb)
   - reference:https://www.kaggle.com/cdeotte/pseudo-labeling-qda-0-969 
+
+## 20201017
+I was not able to make it time within 9 hours in Kaggle's notebook, so I'll experiment in the local.
