@@ -38,7 +38,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 ## 20201011
 - [20201011-moa-lgbm-benchmark-v3.ipynb](notebooks/20201011-moa-lgbm-benchmark-v3.ipynb)
   - A Debug mode was added to increase the number of experiments.
-  - CV: 0.0803, LB: 0.12627
+  - CV: 0.0803, LB: 0.12627 (Debug = True)
   - [log](log/log.v3.log)
   - reference:https://zenn.dev/fkubota/articles/2b8d46b11c178ac2fa2d
   
@@ -47,7 +47,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 - [20201011-moa-lgbm-benchmark-v4.ipynb](notebooks/20201011-moa-lgbm-benchmark-v4.ipynb)
   - Clipping a control with an outlier(25-75)
   
-  - CV: 0.03667, LB: 0.78780
+  - CV: 0.03667, LB: 0.78780 (Debug = True)
   - [log](log/log.v4.log)
     
   - Before → After
@@ -59,7 +59,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 ## 20201012
 - [20201011-moa-lgbm-benchmark-v5.ipynb](notebooks/20201011-moa-lgbm-benchmark-v5.ipynb)
   - Clipping a control with an outlier(20-80)
-  - CV:0.0412, LB: 0.63746
+  - CV:0.0412, LB: 0.63746 (Debug = True)
   - [log](log/log.v5.log)
   
 - [20201012drugs-classification-mechanisms-of-action.ipynb](notebooks/20201012drugs-classification-mechanisms-of-action.ipynb)
@@ -75,7 +75,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 ## 20201015
 - [20201015-moa-lgbm-benchmark-v6.ipynb](notebooks/20201015-moa-lgbm-benchmark-v6.ipynb)
   - under sampling 500 → oversamplling 500, lipping a control with an outlier(10-90)
-  - CV:0.04924, LB: 0.92860
+  - CV:0.04924, LB: 0.92860 (Debug = True)
   - [log](log/log.v6.log)
 
 - UMAP control data (upper: gene expression, lower: cell viability)
