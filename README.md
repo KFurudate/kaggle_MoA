@@ -99,7 +99,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 ## 20201017
 - [20201016-moa-lgbm-benchmark-v7.ipynb](notebooks/20201016-moa-lgbm-benchmark-v7.ipynb)
   - [Use anotated data.](data/20201016_moa_sig_list.csv)
-  - CV:0.1286671, LB: (Debug = True)
+  - CV:0.1286671, LB:0.15010 (Debug = True)
   - [log](log/log.v7.log)
   - [feature_importance](data/feature_importance_df.v7.csv)
   
@@ -108,4 +108,9 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 - [20201017-moa-lgbm-benchmark-v7.ipynb](notebooks/20201017-moa-lgbm-benchmark-v7.ipynb)
   - I was not able to make it time within 9 hours in Kaggle's notebook, so I'll experiment with "Debug = False" in the local.
   
+## 20201019
+- [20201016-moa-lgbm-benchmark-v8.ipynb](notebooks/20201016-moa-lgbm-benchmark-v8.ipynb)
+  - CV:0.0636624, LB: (Debug = True)
+  - [log](log/log.v8.log)
+  - [feature_importance](data/feature_importance_df.v8.csv)
 
