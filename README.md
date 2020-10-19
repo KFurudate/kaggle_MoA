@@ -109,7 +109,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - I was not able to make it time within 9 hours in Kaggle's notebook, so I'll experiment with "Debug = False" in the local.
   
 ## 20201019
-- [20201017-moa-lgbm-benchmark-v8.ipynb](notebooks/20201016-moa-lgbm-benchmark-v8.ipynb)
+- [20201017-moa-lgbm-benchmark-v8.ipynb](notebooks/20201017-moa-lgbm-benchmark-v8.ipynb)
   - pasude labeling
   - CV:0.0636624, LB: (Debug = True)
   - [log](log/log.v8.log)
