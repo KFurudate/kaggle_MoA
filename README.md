@@ -129,4 +129,3 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [feature_importance](data/feature_importance_df.v10.csv)
 
 ![feature_importance_v10](https://user-images.githubusercontent.com/50528980/96805736-ecff9000-13d7-11eb-86f7-d01bc74d2c0e.png)
-
