@@ -111,7 +111,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 ## 20201019
 - [20201017-moa-lgbm-benchmark-v8.ipynb](notebooks/20201017-moa-lgbm-benchmark-v8.ipynb)
   - pasude labeling (thresholds: 0.5)
-  - CV:0.0636624, LB: (Debug = True)
+  - CV:0.0636624, LB:Notebook Timeout (Debug = True)
   - [log](log/log.v8.log)
   - [feature_importance](data/feature_importance_df.v8.csv)
   
