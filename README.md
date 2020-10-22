@@ -125,7 +125,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201021
 - [20201020-moa-lgbm-benchmark-v10.ipynb](notebooks/20201020-moa-lgbm-benchmark-v10.ipynb)
-  - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP, DEBUG = True
+  - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP
   - CV:0.07143886105, LB:0.08165 (Debug = True)
   - [log](log/log.v10.log)
   - [feature_importance](data/feature_importance_df.v10.csv)
@@ -134,8 +134,8 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201022
 - [20201021-moa-lgbm-benchmark-v11.ipynb](notebooks/20201021-moa-lgbm-benchmark-v11.ipynb)
-  - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP, DEBUG = True
-  - CV:0.07143886105, LB:0.08165 (Debug = True)
+  - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP, lgbm parames adjust
+  - CV:0.06696406, LB: (Debug = True)
   - [log](log/log.v11.log)
   - [feature_importance](data/feature_importance_df.v11.csv)
   
