@@ -119,6 +119,8 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201020
 - cell viability
+  - Cell viability is a measure of the proportion of live, healthy cells within a population. 
+  - To measure cell survival following treatment with compounds, such as during a drug screen.
   - reference: https://en.cellsignal.jp/contents/_/synopsis-of-cell-proliferation-metabolic-status-and-cell-death/cell-viability-and-survival
 
 ## 20201021
