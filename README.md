@@ -120,3 +120,13 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 ## 20201020
 - cell viability
   - reference: https://en.cellsignal.jp/contents/_/synopsis-of-cell-proliferation-metabolic-status-and-cell-death/cell-viability-and-survival
+
+## 20201021
+- [20201020-moa-lgbm-benchmark-v10.ipynb](notebooks/20201020-moa-lgbm-benchmark-v10.ipynb)
+  - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP, DEBUG = True
+  - CV:0.07143886105, LB:0.08165 (Debug = True)
+  - [log](log/log.v10.log)
+  - [feature_importance](data/feature_importance_df.v10.csv)
+
+![feature_importance_v10](https://user-images.githubusercontent.com/50528980/96805736-ecff9000-13d7-11eb-86f7-d01bc74d2c0e.png)
+
