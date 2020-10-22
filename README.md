@@ -131,3 +131,13 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [feature_importance](data/feature_importance_df.v10.csv)
 
 ![feature_importance_v10](https://user-images.githubusercontent.com/50528980/96805736-ecff9000-13d7-11eb-86f7-d01bc74d2c0e.png)
+
+## 20201022
+- [20201021-moa-lgbm-benchmark-v11.ipynb](notebooks/20201021-moa-lgbm-benchmark-v11.ipynb)
+  - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP, DEBUG = True
+  - CV:0.07143886105, LB:0.08165 (Debug = True)
+  - [log](log/log.v11.log)
+  - [feature_importance](data/feature_importance_df.v11.csv)
+  
+![feature_importance_v11](https://user-images.githubusercontent.com/50528980/96902192-d437be80-1459-11eb-8e46-4a89c78160f8.png)
+
