@@ -79,17 +79,17 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [log](log/log.v6.log)
 
 - UMAP control data (upper: gene expression, lower: cell viability)
-<img width="346" alt="Screen Shot 2020-10-15 at 15 32 14" src="https://user-images.githubusercontent.com/50528980/96271245-44de6700-0f92-11eb-9899-90125db174d8.png">
+  <img width="346" alt="Screen Shot 2020-10-15 at 15 32 14" src="https://user-images.githubusercontent.com/50528980/96271245-44de6700-0f92-11eb-9899-90125db174d8.png">
 
 - UMAP train data (upper: gene expression, lower: cell viability)
-<img width="331" alt="Screen Shot 2020-10-15 at 15 32 03" src="https://user-images.githubusercontent.com/50528980/96271380-6d666100-0f92-11eb-822b-e11311deb6a7.png">
+  <img width="331" alt="Screen Shot 2020-10-15 at 15 32 03" src="https://user-images.githubusercontent.com/50528980/96271380-6d666100-0f92-11eb-822b-e11311deb6a7.png">
 
   - Clustering with data-driven is going to be difficult to do.
 
 ## 20201016
 - It is not clear whether this makes sense or not. [I decided to find drugs in non scored data that belong to the same category as the data with a low number of targets in the scored data.](data/20201016_moa_sig_list.csv)
   - reference: [薬理学電子教科書](https://drugacademy.atlassian.net/wiki/spaces/PHARMACOLO/overview?mode=global)
-  
+
   <img width="935" alt="Screen Shot 2020-10-16 at 21 01 12" src="https://user-images.githubusercontent.com/50528980/96326019-ccf45900-0ff2-11eb-8f2f-a511cb0c6598.png">
   
 - [I want to use Pseudo Labeling](kaggle_notebooks/pseudo-labeling-qda-0-969.ipynb)
@@ -130,7 +130,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [log](log/log.v10.log)
   - [feature_importance](data/feature_importance_df.v10.csv)
 
-![feature_importance_v10](https://user-images.githubusercontent.com/50528980/96805736-ecff9000-13d7-11eb-86f7-d01bc74d2c0e.png)
+  ![feature_importance_v10](https://user-images.githubusercontent.com/50528980/96805736-ecff9000-13d7-11eb-86f7-d01bc74d2c0e.png)
 
 ## 20201022
 - [20201021-moa-lgbm-benchmark-v11.ipynb](notebooks/20201021-moa-lgbm-benchmark-v11.ipynb)
@@ -139,7 +139,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [log](log/log.v11.log)
   - [feature_importance](data/feature_importance_df.v11.csv)
   
-![feature_importance_v11](https://user-images.githubusercontent.com/50528980/96902192-d437be80-1459-11eb-8e46-4a89c78160f8.png)
+  ![feature_importance_v11](https://user-images.githubusercontent.com/50528980/96902192-d437be80-1459-11eb-8e46-4a89c78160f8.png)
 
 - [20201022-moa-lgbm-benchmark-v8.colab.ipynb](notebooks/20201022-moa-lgbm-benchmark-v8.colab.ipynb)
   - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP, lgbm parames adjust
@@ -147,11 +147,11 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [log](log/colab.log.v8.log)
   - [feature_importance](data/feature_importance_df.v8.colab.csv)
   
-![colab feature_importance_v8](https://user-images.githubusercontent.com/50528980/96940780-3ca49100-1496-11eb-917e-4d03a58c6dda.png)
+  ![colab feature_importance_v8](https://user-images.githubusercontent.com/50528980/96940780-3ca49100-1496-11eb-917e-4d03a58c6dda.png)
 
 - [20201021-moa-lgbm-benchmark-v12.ipynb](notebooks/20201021-moa-lgbm-benchmark-v12.ipynb)
-  - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP, lgbm parames adjust
-  - CV:0.05378985351, LB: None(colab) (Debug = True)
+  - Feature engineering based on feature importance
+  - CV:0.05378985351, LB:  (Debug = True)
   - [log](log/log.v12.log)
   - [feature_importance](data/feature_importance_df.v12.csv)
   
