@@ -161,6 +161,12 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
 
 ### [Unfortunately, since my score doesn't reach, and go beyond the public notebook at all, I'll go back to the beginning and reconsider the starter code of U++ san.](kaggle_notebooks/moa-lgbm-benchmark.ipynb)
-  
 
+## 20201023
+- [20201023-moa-lgbm-v2.ipynb](notebooks/20201023-moa-lgbm-v2.ipynb)
+  - Add debug mode and minor modifications
+  - CV:0.01672218, LB:0.02059 (Debug = True)
+  - [log](log/log.v2.moa.lgbm)
+
+  ![feature_importance_v2](https://user-images.githubusercontent.com/50528980/97024246-335e0780-151c-11eb-91b3-a26fa3ff3049.png)
 
