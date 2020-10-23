@@ -149,4 +149,13 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
 ![colab feature_importance_v8](https://user-images.githubusercontent.com/50528980/96940780-3ca49100-1496-11eb-917e-4d03a58c6dda.png)
 
+- [20201021-moa-lgbm-benchmark-v12.ipynb](notebooks/20201021-moa-lgbm-benchmark-v12.ipynb)
+  - Pasude labeling (thresholds:0.6), ReduceCol: Kolmogorov-Smirnov, PCA(whiten)&UMAP, lgbm parames adjust
+  - CV:0.05378985351, LB: None(colab) (Debug = True)
+  - [log](log/log.v12.log)
+  - [feature_importance](data/feature_importance_df.v12.csv)
+  
+  ![feature_importance_v12](https://user-images.githubusercontent.com/50528980/96957293-e0eefd80-14bf-11eb-9fd5-26b2f8fb7713.png)
+  
+
 
