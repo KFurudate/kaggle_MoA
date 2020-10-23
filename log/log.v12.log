@@ -1,0 +1,2472 @@
+5-alpha_reductase_inhibitor , len(trt) : 17
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 5-alpha_reductase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 5-alpha_reductase_inhibitor=================================
+5-alpha_reductase_inhibitor logloss: 0.014530663223407323
+=========================================================================================
+11-beta-hsd1_inhibitor , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 11-beta-hsd1_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 11-beta-hsd1_inhibitor=================================
+11-beta-hsd1_inhibitor logloss: 0.004196769493392432
+=========================================================================================
+acat_inhibitor , len(trt) : 24
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 acat_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 acat_inhibitor=================================
+acat_inhibitor logloss: 0.007131816587051839
+=========================================================================================
+acetylcholine_receptor_agonist , len(trt) : 196
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 acetylcholine_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 acetylcholine_receptor_agonist=================================
+acetylcholine_receptor_agonist logloss: 0.12722485064092343
+=========================================================================================
+acetylcholine_receptor_antagonist , len(trt) : 307
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 acetylcholine_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 acetylcholine_receptor_antagonist=================================
+acetylcholine_receptor_antagonist logloss: 0.1481454674995425
+=========================================================================================
+acetylcholinesterase_inhibitor , len(trt) : 73
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 acetylcholinesterase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 acetylcholinesterase_inhibitor=================================
+acetylcholinesterase_inhibitor logloss: 0.03511402640324228
+=========================================================================================
+adenosine_receptor_agonist , len(trt) : 54
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 adenosine_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 adenosine_receptor_agonist=================================
+adenosine_receptor_agonist logloss: 0.037062029337185026
+=========================================================================================
+adenosine_receptor_antagonist , len(trt) : 96
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 adenosine_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 adenosine_receptor_antagonist=================================
+adenosine_receptor_antagonist logloss: 0.07716421345421397
+=========================================================================================
+adenylyl_cyclase_activator , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 adenylyl_cyclase_activator=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 adenylyl_cyclase_activator=================================
+adenylyl_cyclase_activator logloss: 0.008912437772478436
+=========================================================================================
+adrenergic_receptor_agonist , len(trt) : 270
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 adrenergic_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 adrenergic_receptor_agonist=================================
+adrenergic_receptor_agonist logloss: 0.14912523839608258
+=========================================================================================
+adrenergic_receptor_antagonist , len(trt) : 360
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 adrenergic_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 adrenergic_receptor_antagonist=================================
+adrenergic_receptor_antagonist logloss: 0.17003375211630245
+=========================================================================================
+akt_inhibitor , len(trt) : 66
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 akt_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 akt_inhibitor=================================
+akt_inhibitor logloss: 0.03284363157502724
+=========================================================================================
+aldehyde_dehydrogenase_inhibitor , len(trt) : 19
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 aldehyde_dehydrogenase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 aldehyde_dehydrogenase_inhibitor=================================
+aldehyde_dehydrogenase_inhibitor logloss: 0.007967290719874459
+=========================================================================================
+alk_inhibitor , len(trt) : 42
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 alk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 alk_inhibitor=================================
+alk_inhibitor logloss: 0.02287652103018728
+=========================================================================================
+ampk_activator , len(trt) : 12
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 ampk_activator=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 ampk_activator=================================
+ampk_activator logloss: 0.0032532018086447495
+=========================================================================================
+analgesic , len(trt) : 12
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 analgesic=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 analgesic=================================
+analgesic logloss: 0.005549467059553738
+=========================================================================================
+androgen_receptor_agonist , len(trt) : 48
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 androgen_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 androgen_receptor_agonist=================================
+androgen_receptor_agonist logloss: 0.022351149441863814
+=========================================================================================
+androgen_receptor_antagonist , len(trt) : 89
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 androgen_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 androgen_receptor_antagonist=================================
+androgen_receptor_antagonist logloss: 0.06509246907768114
+=========================================================================================
+anesthetic_-_local , len(trt) : 80
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 anesthetic_-_local=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 anesthetic_-_local=================================
+anesthetic_-_local logloss: 0.06933045836663397
+=========================================================================================
+angiogenesis_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 angiogenesis_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 angiogenesis_inhibitor=================================
+angiogenesis_inhibitor logloss: 0.016622912113802513
+=========================================================================================
+angiotensin_receptor_antagonist , len(trt) : 128
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 angiotensin_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 angiotensin_receptor_antagonist=================================
+angiotensin_receptor_antagonist logloss: 0.08868441264836271
+=========================================================================================
+anti-inflammatory , len(trt) : 145
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 anti-inflammatory=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 anti-inflammatory=================================
+anti-inflammatory logloss: 0.10829723074062275
+=========================================================================================
+antiarrhythmic , len(trt) : 104
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 antiarrhythmic=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 antiarrhythmic=================================
+antiarrhythmic logloss: 0.08041096181578565
+=========================================================================================
+antibiotic , len(trt) : 43
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 antibiotic=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 antibiotic=================================
+antibiotic logloss: 0.026756472408561827
+=========================================================================================
+anticonvulsant , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 anticonvulsant=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 anticonvulsant=================================
+anticonvulsant logloss: 0.005753819461215485
+=========================================================================================
+antifungal , len(trt) : 26
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 antifungal=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 antifungal=================================
+antifungal logloss: 0.01765762002593984
+=========================================================================================
+antihistamine , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 antihistamine=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 antihistamine=================================
+antihistamine logloss: 0.00948751152089905
+=========================================================================================
+antimalarial , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 antimalarial=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 antimalarial=================================
+antimalarial logloss: 0.005499657444961335
+=========================================================================================
+antioxidant , len(trt) : 73
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 antioxidant=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 antioxidant=================================
+antioxidant logloss: 0.05709930522081849
+=========================================================================================
+antiprotozoal , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 antiprotozoal=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 antiprotozoal=================================
+antiprotozoal logloss: 0.024841061621043558
+=========================================================================================
+antiviral , len(trt) : 23
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 antiviral=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 antiviral=================================
+antiviral logloss: 0.004268304907900959
+=========================================================================================
+apoptosis_stimulant , len(trt) : 110
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 apoptosis_stimulant=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 apoptosis_stimulant=================================
+apoptosis_stimulant logloss: 0.07638491219647255
+=========================================================================================
+aromatase_inhibitor , len(trt) : 47
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 aromatase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 aromatase_inhibitor=================================
+aromatase_inhibitor logloss: 0.026884008857536435
+=========================================================================================
+atm_kinase_inhibitor , len(trt) : 157
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 atm_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 atm_kinase_inhibitor=================================
+atm_kinase_inhibitor logloss: 0.13490221957376528
+=========================================================================================
+atp-sensitive_potassium_channel_antagonist , len(trt) : 7
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 atp-sensitive_potassium_channel_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 atp-sensitive_potassium_channel_antagonist=================================
+atp-sensitive_potassium_channel_antagonist logloss: 0.005879259684848718
+=========================================================================================
+atp_synthase_inhibitor , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 atp_synthase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 atp_synthase_inhibitor=================================
+atp_synthase_inhibitor logloss: 0.011895376592914531
+=========================================================================================
+atpase_inhibitor , len(trt) : 97
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 atpase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 atpase_inhibitor=================================
+atpase_inhibitor logloss: 0.060660747993520954
+=========================================================================================
+atr_kinase_inhibitor , len(trt) : 43
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 atr_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 atr_kinase_inhibitor=================================
+atr_kinase_inhibitor logloss: 0.02188551341168254
+=========================================================================================
+aurora_kinase_inhibitor , len(trt) : 96
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 aurora_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 aurora_kinase_inhibitor=================================
+aurora_kinase_inhibitor logloss: 0.0690749076047773
+=========================================================================================
+autotaxin_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 autotaxin_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 autotaxin_inhibitor=================================
+autotaxin_inhibitor logloss: 0.01938836943189074
+=========================================================================================
+bacterial_30s_ribosomal_subunit_inhibitor , len(trt) : 60
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bacterial_30s_ribosomal_subunit_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bacterial_30s_ribosomal_subunit_inhibitor=================================
+bacterial_30s_ribosomal_subunit_inhibitor logloss: 0.03095100556297937
+=========================================================================================
+bacterial_50s_ribosomal_subunit_inhibitor , len(trt) : 80
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bacterial_50s_ribosomal_subunit_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bacterial_50s_ribosomal_subunit_inhibitor=================================
+bacterial_50s_ribosomal_subunit_inhibitor logloss: 0.07477481594358942
+=========================================================================================
+bacterial_antifolate , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bacterial_antifolate=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bacterial_antifolate=================================
+bacterial_antifolate logloss: 0.020167188117235963
+=========================================================================================
+bacterial_cell_wall_synthesis_inhibitor , len(trt) : 192
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bacterial_cell_wall_synthesis_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bacterial_cell_wall_synthesis_inhibitor=================================
+bacterial_cell_wall_synthesis_inhibitor logloss: 0.11548837755719965
+=========================================================================================
+bacterial_dna_gyrase_inhibitor , len(trt) : 89
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bacterial_dna_gyrase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bacterial_dna_gyrase_inhibitor=================================
+bacterial_dna_gyrase_inhibitor logloss: 0.07079694713768762
+=========================================================================================
+bacterial_dna_inhibitor , len(trt) : 115
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bacterial_dna_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bacterial_dna_inhibitor=================================
+bacterial_dna_inhibitor logloss: 0.07427114917542796
+=========================================================================================
+bacterial_membrane_integrity_inhibitor , len(trt) : 19
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bacterial_membrane_integrity_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bacterial_membrane_integrity_inhibitor=================================
+bacterial_membrane_integrity_inhibitor logloss: 0.010983096371086281
+=========================================================================================
+bcl_inhibitor , len(trt) : 31
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bcl_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bcl_inhibitor=================================
+bcl_inhibitor logloss: 0.024351635643841057
+=========================================================================================
+bcr-abl_inhibitor , len(trt) : 63
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bcr-abl_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bcr-abl_inhibitor=================================
+bcr-abl_inhibitor logloss: 0.05248586836156413
+=========================================================================================
+benzodiazepine_receptor_agonist , len(trt) : 67
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 benzodiazepine_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 benzodiazepine_receptor_agonist=================================
+benzodiazepine_receptor_agonist logloss: 0.04065612094190655
+=========================================================================================
+beta_amyloid_inhibitor , len(trt) : 24
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 beta_amyloid_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 beta_amyloid_inhibitor=================================
+beta_amyloid_inhibitor logloss: 0.015587856031638191
+=========================================================================================
+bromodomain_inhibitor , len(trt) : 68
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 bromodomain_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 bromodomain_inhibitor=================================
+bromodomain_inhibitor logloss: 0.043600375510134674
+=========================================================================================
+btk_inhibitor , len(trt) : 29
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 btk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 btk_inhibitor=================================
+btk_inhibitor logloss: 0.015621042567652748
+=========================================================================================
+calcineurin_inhibitor , len(trt) : 12
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 calcineurin_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 calcineurin_inhibitor=================================
+calcineurin_inhibitor logloss: 0.0028085826994125097
+=========================================================================================
+calcium_channel_blocker , len(trt) : 281
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 calcium_channel_blocker=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 calcium_channel_blocker=================================
+calcium_channel_blocker logloss: 0.20837729494072346
+=========================================================================================
+cannabinoid_receptor_agonist , len(trt) : 42
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cannabinoid_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cannabinoid_receptor_agonist=================================
+cannabinoid_receptor_agonist logloss: 0.0258103499981916
+=========================================================================================
+cannabinoid_receptor_antagonist , len(trt) : 55
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cannabinoid_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cannabinoid_receptor_antagonist=================================
+cannabinoid_receptor_antagonist logloss: 0.03156119535431143
+=========================================================================================
+carbonic_anhydrase_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 carbonic_anhydrase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 carbonic_anhydrase_inhibitor=================================
+carbonic_anhydrase_inhibitor logloss: 0.014575371109901189
+=========================================================================================
+casein_kinase_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 casein_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 casein_kinase_inhibitor=================================
+casein_kinase_inhibitor logloss: 0.01619242487576845
+=========================================================================================
+caspase_activator , len(trt) : 55
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 caspase_activator=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 caspase_activator=================================
+caspase_activator logloss: 0.03480974244424808
+=========================================================================================
+catechol_o_methyltransferase_inhibitor , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 catechol_o_methyltransferase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 catechol_o_methyltransferase_inhibitor=================================
+catechol_o_methyltransferase_inhibitor logloss: 0.004313865694526346
+=========================================================================================
+cc_chemokine_receptor_antagonist , len(trt) : 102
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cc_chemokine_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cc_chemokine_receptor_antagonist=================================
+cc_chemokine_receptor_antagonist logloss: 0.09489408355358044
+=========================================================================================
+cck_receptor_antagonist , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cck_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cck_receptor_antagonist=================================
+cck_receptor_antagonist logloss: 0.02127170390759043
+=========================================================================================
+cdk_inhibitor , len(trt) : 352
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cdk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cdk_inhibitor=================================
+cdk_inhibitor logloss: 0.1792969451708924
+=========================================================================================
+chelating_agent , len(trt) : 54
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 chelating_agent=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 chelating_agent=================================
+chelating_agent logloss: 0.04161069586525245
+=========================================================================================
+chk_inhibitor , len(trt) : 43
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 chk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 chk_inhibitor=================================
+chk_inhibitor logloss: 0.02188551341168254
+=========================================================================================
+chloride_channel_blocker , len(trt) : 42
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 chloride_channel_blocker=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 chloride_channel_blocker=================================
+chloride_channel_blocker logloss: 0.024834288898559938
+=========================================================================================
+cholesterol_inhibitor , len(trt) : 48
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cholesterol_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cholesterol_inhibitor=================================
+cholesterol_inhibitor logloss: 0.02335534479084595
+=========================================================================================
+cholinergic_receptor_antagonist , len(trt) : 54
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cholinergic_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cholinergic_receptor_antagonist=================================
+cholinergic_receptor_antagonist logloss: 0.026346167054872242
+=========================================================================================
+coagulation_factor_inhibitor , len(trt) : 24
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 coagulation_factor_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 coagulation_factor_inhibitor=================================
+coagulation_factor_inhibitor logloss: 0.0062576495506369186
+=========================================================================================
+corticosteroid_agonist , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 corticosteroid_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 corticosteroid_agonist=================================
+corticosteroid_agonist logloss: 0.011697606556520548
+=========================================================================================
+cyclooxygenase_inhibitor , len(trt) : 435
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cyclooxygenase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cyclooxygenase_inhibitor=================================
+cyclooxygenase_inhibitor logloss: 0.18170612742708508
+=========================================================================================
+cytochrome_p450_inhibitor , len(trt) : 104
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 cytochrome_p450_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 cytochrome_p450_inhibitor=================================
+cytochrome_p450_inhibitor logloss: 0.056630670611501045
+=========================================================================================
+dihydrofolate_reductase_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 dihydrofolate_reductase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 dihydrofolate_reductase_inhibitor=================================
+dihydrofolate_reductase_inhibitor logloss: 0.015026682442071662
+=========================================================================================
+dipeptidyl_peptidase_inhibitor , len(trt) : 25
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 dipeptidyl_peptidase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 dipeptidyl_peptidase_inhibitor=================================
+dipeptidyl_peptidase_inhibitor logloss: 0.00980410552478832
+=========================================================================================
+diuretic , len(trt) : 6
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 diuretic=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 diuretic=================================
+diuretic logloss: 0.0022327597781526777
+=========================================================================================
+dna_alkylating_agent , len(trt) : 48
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 dna_alkylating_agent=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 dna_alkylating_agent=================================
+dna_alkylating_agent logloss: 0.029187368513019292
+=========================================================================================
+dna_inhibitor , len(trt) : 402
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 dna_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 dna_inhibitor=================================
+dna_inhibitor logloss: 0.17781241465980394
+=========================================================================================
+dopamine_receptor_agonist , len(trt) : 127
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 dopamine_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 dopamine_receptor_agonist=================================
+dopamine_receptor_agonist logloss: 0.10327587193292848
+=========================================================================================
+dopamine_receptor_antagonist , len(trt) : 424
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 dopamine_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 dopamine_receptor_antagonist=================================
+dopamine_receptor_antagonist logloss: 0.1846758834915581
+=========================================================================================
+egfr_inhibitor , len(trt) : 336
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 egfr_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 egfr_inhibitor=================================
+egfr_inhibitor logloss: 0.1668356954946863
+=========================================================================================
+elastase_inhibitor , len(trt) : 12
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 elastase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 elastase_inhibitor=================================
+elastase_inhibitor logloss: 0.003842962929651508
+=========================================================================================
+erbb2_inhibitor , len(trt) : 20
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 erbb2_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 erbb2_inhibitor=================================
+erbb2_inhibitor logloss: 0.0044521501024589955
+=========================================================================================
+estrogen_receptor_agonist , len(trt) : 158
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 estrogen_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 estrogen_receptor_agonist=================================
+estrogen_receptor_agonist logloss: 0.11107758951198327
+=========================================================================================
+estrogen_receptor_antagonist , len(trt) : 48
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 estrogen_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 estrogen_receptor_antagonist=================================
+estrogen_receptor_antagonist logloss: 0.021711012316018474
+=========================================================================================
+faah_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 faah_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 faah_inhibitor=================================
+faah_inhibitor logloss: 0.016058793542445254
+=========================================================================================
+farnesyltransferase_inhibitor , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 farnesyltransferase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 farnesyltransferase_inhibitor=================================
+farnesyltransferase_inhibitor logloss: 0.003558031728496566
+=========================================================================================
+fatty_acid_receptor_agonist , len(trt) : 25
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 fatty_acid_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 fatty_acid_receptor_agonist=================================
+fatty_acid_receptor_agonist logloss: 0.007158039336677463
+=========================================================================================
+fgfr_inhibitor , len(trt) : 50
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 fgfr_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 fgfr_inhibitor=================================
+fgfr_inhibitor logloss: 0.03053882581896125
+=========================================================================================
+flt3_inhibitor , len(trt) : 279
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 flt3_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 flt3_inhibitor=================================
+flt3_inhibitor logloss: 0.15760941221976973
+=========================================================================================
+focal_adhesion_kinase_inhibitor , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 focal_adhesion_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 focal_adhesion_kinase_inhibitor=================================
+focal_adhesion_kinase_inhibitor logloss: 0.004623143596707425
+=========================================================================================
+free_radical_scavenger , len(trt) : 91
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 free_radical_scavenger=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 free_radical_scavenger=================================
+free_radical_scavenger logloss: 0.06186610596565882
+=========================================================================================
+fungal_squalene_epoxidase_inhibitor , len(trt) : 29
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 fungal_squalene_epoxidase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 fungal_squalene_epoxidase_inhibitor=================================
+fungal_squalene_epoxidase_inhibitor logloss: 0.015736318697044466
+=========================================================================================
+gaba_receptor_agonist , len(trt) : 129
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 gaba_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 gaba_receptor_agonist=================================
+gaba_receptor_agonist logloss: 0.13298231565721355
+=========================================================================================
+gaba_receptor_antagonist , len(trt) : 171
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 gaba_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 gaba_receptor_antagonist=================================
+gaba_receptor_antagonist logloss: 0.12307499557544295
+=========================================================================================
+gamma_secretase_inhibitor , len(trt) : 56
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 gamma_secretase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 gamma_secretase_inhibitor=================================
+gamma_secretase_inhibitor logloss: 0.04053052036361279
+=========================================================================================
+glucocorticoid_receptor_agonist , len(trt) : 266
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 glucocorticoid_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 glucocorticoid_receptor_agonist=================================
+glucocorticoid_receptor_agonist logloss: 0.1624176974461705
+=========================================================================================
+glutamate_inhibitor , len(trt) : 13
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 glutamate_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 glutamate_inhibitor=================================
+glutamate_inhibitor logloss: 0.0047654498656531635
+=========================================================================================
+glutamate_receptor_agonist , len(trt) : 80
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 glutamate_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 glutamate_receptor_agonist=================================
+glutamate_receptor_agonist logloss: 0.07867900881484735
+=========================================================================================
+glutamate_receptor_antagonist , len(trt) : 367
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 glutamate_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 glutamate_receptor_antagonist=================================
+glutamate_receptor_antagonist logloss: 0.16793549265163005
+=========================================================================================
+gonadotropin_receptor_agonist , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 gonadotropin_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 gonadotropin_receptor_agonist=================================
+gonadotropin_receptor_agonist logloss: 0.004595182819435711
+=========================================================================================
+gsk_inhibitor , len(trt) : 60
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 gsk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 gsk_inhibitor=================================
+gsk_inhibitor logloss: 0.0436269638546839
+=========================================================================================
+hcv_inhibitor , len(trt) : 72
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 hcv_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 hcv_inhibitor=================================
+hcv_inhibitor logloss: 0.05396432622591429
+=========================================================================================
+hdac_inhibitor , len(trt) : 106
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 hdac_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 hdac_inhibitor=================================
+hdac_inhibitor logloss: 0.08169994431724296
+=========================================================================================
+histamine_receptor_agonist , len(trt) : 59
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 histamine_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 histamine_receptor_agonist=================================
+histamine_receptor_agonist logloss: 0.034893387175556664
+=========================================================================================
+histamine_receptor_antagonist , len(trt) : 247
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 histamine_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 histamine_receptor_antagonist=================================
+histamine_receptor_antagonist logloss: 0.15718325899642518
+=========================================================================================
+histone_lysine_demethylase_inhibitor , len(trt) : 49
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 histone_lysine_demethylase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 histone_lysine_demethylase_inhibitor=================================
+histone_lysine_demethylase_inhibitor logloss: 0.04010773450688415
+=========================================================================================
+histone_lysine_methyltransferase_inhibitor , len(trt) : 32
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 histone_lysine_methyltransferase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 histone_lysine_methyltransferase_inhibitor=================================
+histone_lysine_methyltransferase_inhibitor logloss: 0.013700922524364558
+=========================================================================================
+hiv_inhibitor , len(trt) : 78
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 hiv_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 hiv_inhibitor=================================
+hiv_inhibitor logloss: 0.06300870528676031
+=========================================================================================
+hmgcr_inhibitor , len(trt) : 283
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 hmgcr_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 hmgcr_inhibitor=================================
+hmgcr_inhibitor logloss: 0.1621282337461116
+=========================================================================================
+hsp_inhibitor , len(trt) : 93
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 hsp_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 hsp_inhibitor=================================
+hsp_inhibitor logloss: 0.08968625053292814
+=========================================================================================
+igf-1_inhibitor , len(trt) : 37
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 igf-1_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 igf-1_inhibitor=================================
+igf-1_inhibitor logloss: 0.02741009755369153
+=========================================================================================
+ikk_inhibitor , len(trt) : 30
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 ikk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 ikk_inhibitor=================================
+ikk_inhibitor logloss: 0.010239625428173802
+=========================================================================================
+imidazoline_receptor_agonist , len(trt) : 37
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 imidazoline_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 imidazoline_receptor_agonist=================================
+imidazoline_receptor_agonist logloss: 0.02399029888398483
+=========================================================================================
+immunosuppressant , len(trt) : 73
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 immunosuppressant=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 immunosuppressant=================================
+immunosuppressant logloss: 0.04712133794033735
+=========================================================================================
+insulin_secretagogue , len(trt) : 30
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 insulin_secretagogue=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 insulin_secretagogue=================================
+insulin_secretagogue logloss: 0.012863165634589656
+=========================================================================================
+insulin_sensitizer , len(trt) : 51
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 insulin_sensitizer=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 insulin_sensitizer=================================
+insulin_sensitizer logloss: 0.025128129018984802
+=========================================================================================
+integrin_inhibitor , len(trt) : 42
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 integrin_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 integrin_inhibitor=================================
+integrin_inhibitor logloss: 0.019112307913040916
+=========================================================================================
+jak_inhibitor , len(trt) : 92
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 jak_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 jak_inhibitor=================================
+jak_inhibitor logloss: 0.059666956748538114
+=========================================================================================
+kit_inhibitor , len(trt) : 273
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 kit_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 kit_inhibitor=================================
+kit_inhibitor logloss: 0.1403715288243874
+=========================================================================================
+laxative , len(trt) : 6
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 laxative=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 laxative=================================
+laxative logloss: 0.0002951047907002316
+=========================================================================================
+leukotriene_inhibitor , len(trt) : 67
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 leukotriene_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 leukotriene_inhibitor=================================
+leukotriene_inhibitor logloss: 0.04938527904844464
+=========================================================================================
+leukotriene_receptor_antagonist , len(trt) : 62
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 leukotriene_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 leukotriene_receptor_antagonist=================================
+leukotriene_receptor_antagonist logloss: 0.035241071252692505
+=========================================================================================
+lipase_inhibitor , len(trt) : 12
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 lipase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 lipase_inhibitor=================================
+lipase_inhibitor logloss: 0.002375867688947392
+=========================================================================================
+lipoxygenase_inhibitor , len(trt) : 61
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 lipoxygenase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 lipoxygenase_inhibitor=================================
+lipoxygenase_inhibitor logloss: 0.036383538976134486
+=========================================================================================
+lxr_agonist , len(trt) : 6
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 lxr_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 lxr_agonist=================================
+lxr_agonist logloss: 0.00281071683258814
+=========================================================================================
+mdm_inhibitor , len(trt) : 31
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 mdm_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 mdm_inhibitor=================================
+mdm_inhibitor logloss: 0.01394780559248952
+=========================================================================================
+mek_inhibitor , len(trt) : 134
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 mek_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 mek_inhibitor=================================
+mek_inhibitor logloss: 0.09527069022478513
+=========================================================================================
+membrane_integrity_inhibitor , len(trt) : 74
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 membrane_integrity_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 membrane_integrity_inhibitor=================================
+membrane_integrity_inhibitor logloss: 0.04428228263355457
+=========================================================================================
+mineralocorticoid_receptor_antagonist , len(trt) : 25
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 mineralocorticoid_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 mineralocorticoid_receptor_antagonist=================================
+mineralocorticoid_receptor_antagonist logloss: 0.009381860446458333
+=========================================================================================
+monoacylglycerol_lipase_inhibitor , len(trt) : 12
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 monoacylglycerol_lipase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 monoacylglycerol_lipase_inhibitor=================================
+monoacylglycerol_lipase_inhibitor logloss: 0.00450010938983157
+=========================================================================================
+monoamine_oxidase_inhibitor , len(trt) : 85
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 monoamine_oxidase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 monoamine_oxidase_inhibitor=================================
+monoamine_oxidase_inhibitor logloss: 0.060819882332844084
+=========================================================================================
+monopolar_spindle_1_kinase_inhibitor , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 monopolar_spindle_1_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 monopolar_spindle_1_kinase_inhibitor=================================
+monopolar_spindle_1_kinase_inhibitor logloss: 0.004625794737321808
+=========================================================================================
+mtor_inhibitor , len(trt) : 130
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 mtor_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 mtor_inhibitor=================================
+mtor_inhibitor logloss: 0.09731880522329771
+=========================================================================================
+mucolytic_agent , len(trt) : 48
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 mucolytic_agent=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 mucolytic_agent=================================
+mucolytic_agent logloss: 0.029309806889383422
+=========================================================================================
+neuropeptide_receptor_antagonist , len(trt) : 37
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 neuropeptide_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 neuropeptide_receptor_antagonist=================================
+neuropeptide_receptor_antagonist logloss: 0.022056098508943783
+=========================================================================================
+nfkb_inhibitor , len(trt) : 832
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2823
+len(valid_index) : 2823
+================================= fold 1/2 nfkb_inhibitor=================================
+len(train_index) : 2823
+len(valid_index) : 2823
+================================= fold 2/2 nfkb_inhibitor=================================
+nfkb_inhibitor logloss: 0.26544702134910336
+=========================================================================================
+nicotinic_receptor_agonist , len(trt) : 12
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 nicotinic_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 nicotinic_receptor_agonist=================================
+nicotinic_receptor_agonist logloss: 0.0029897618184974795
+=========================================================================================
+nitric_oxide_donor , len(trt) : 26
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 nitric_oxide_donor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 nitric_oxide_donor=================================
+nitric_oxide_donor logloss: 0.01288248262911082
+=========================================================================================
+nitric_oxide_production_inhibitor , len(trt) : 29
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 nitric_oxide_production_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 nitric_oxide_production_inhibitor=================================
+nitric_oxide_production_inhibitor logloss: 0.008605462813642738
+=========================================================================================
+nitric_oxide_synthase_inhibitor , len(trt) : 26
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 nitric_oxide_synthase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 nitric_oxide_synthase_inhibitor=================================
+nitric_oxide_synthase_inhibitor logloss: 0.008396191441550014
+=========================================================================================
+norepinephrine_reuptake_inhibitor , len(trt) : 43
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 norepinephrine_reuptake_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 norepinephrine_reuptake_inhibitor=================================
+norepinephrine_reuptake_inhibitor logloss: 0.021484393993326273
+=========================================================================================
+nrf2_activator , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 nrf2_activator=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 nrf2_activator=================================
+nrf2_activator logloss: 0.003330750779973367
+=========================================================================================
+opioid_receptor_agonist , len(trt) : 61
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 opioid_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 opioid_receptor_agonist=================================
+opioid_receptor_agonist logloss: 0.03726561226286213
+=========================================================================================
+opioid_receptor_antagonist , len(trt) : 96
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 opioid_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 opioid_receptor_antagonist=================================
+opioid_receptor_antagonist logloss: 0.05783141996220298
+=========================================================================================
+orexin_receptor_antagonist , len(trt) : 37
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 orexin_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 orexin_receptor_antagonist=================================
+orexin_receptor_antagonist logloss: 0.022027186278742526
+=========================================================================================
+p38_mapk_inhibitor , len(trt) : 62
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 p38_mapk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 p38_mapk_inhibitor=================================
+p38_mapk_inhibitor logloss: 0.04136549939622994
+=========================================================================================
+p-glycoprotein_inhibitor , len(trt) : 30
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 p-glycoprotein_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 p-glycoprotein_inhibitor=================================
+p-glycoprotein_inhibitor logloss: 0.010882929435054742
+=========================================================================================
+parp_inhibitor , len(trt) : 61
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 parp_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 parp_inhibitor=================================
+parp_inhibitor logloss: 0.03593254516413837
+=========================================================================================
+pdgfr_inhibitor , len(trt) : 297
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 pdgfr_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 pdgfr_inhibitor=================================
+pdgfr_inhibitor logloss: 0.1601149131947762
+=========================================================================================
+pdk_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 pdk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 pdk_inhibitor=================================
+pdk_inhibitor logloss: 0.018664518689550772
+=========================================================================================
+phosphodiesterase_inhibitor , len(trt) : 264
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 phosphodiesterase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 phosphodiesterase_inhibitor=================================
+phosphodiesterase_inhibitor logloss: 0.23763925845257927
+=========================================================================================
+phospholipase_inhibitor , len(trt) : 25
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 phospholipase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 phospholipase_inhibitor=================================
+phospholipase_inhibitor logloss: 0.0065049016190196355
+=========================================================================================
+pi3k_inhibitor , len(trt) : 151
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 pi3k_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 pi3k_inhibitor=================================
+pi3k_inhibitor logloss: 0.20306268234325928
+=========================================================================================
+pkc_inhibitor , len(trt) : 31
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 pkc_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 pkc_inhibitor=================================
+pkc_inhibitor logloss: 0.015240096510141807
+=========================================================================================
+potassium_channel_activator , len(trt) : 67
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 potassium_channel_activator=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 potassium_channel_activator=================================
+potassium_channel_activator logloss: 0.03822672662048327
+=========================================================================================
+potassium_channel_antagonist , len(trt) : 110
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 potassium_channel_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 potassium_channel_antagonist=================================
+potassium_channel_antagonist logloss: 0.07868621421125989
+=========================================================================================
+ppar_receptor_agonist , len(trt) : 115
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 ppar_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 ppar_receptor_agonist=================================
+ppar_receptor_agonist logloss: 0.07485456248838872
+=========================================================================================
+ppar_receptor_antagonist , len(trt) : 30
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 ppar_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 ppar_receptor_antagonist=================================
+ppar_receptor_antagonist logloss: 0.013010416907935227
+=========================================================================================
+progesterone_receptor_agonist , len(trt) : 137
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 progesterone_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 progesterone_receptor_agonist=================================
+progesterone_receptor_agonist logloss: 0.14476232763850072
+=========================================================================================
+progesterone_receptor_antagonist , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 progesterone_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 progesterone_receptor_antagonist=================================
+progesterone_receptor_antagonist logloss: 0.007464271450304683
+=========================================================================================
+prostaglandin_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 prostaglandin_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 prostaglandin_inhibitor=================================
+prostaglandin_inhibitor logloss: 0.017935757714331924
+=========================================================================================
+prostanoid_receptor_antagonist , len(trt) : 84
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 prostanoid_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 prostanoid_receptor_antagonist=================================
+prostanoid_receptor_antagonist logloss: 0.10347230670992373
+=========================================================================================
+proteasome_inhibitor , len(trt) : 726
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2717
+len(valid_index) : 2717
+================================= fold 1/2 proteasome_inhibitor=================================
+len(train_index) : 2717
+len(valid_index) : 2717
+================================= fold 2/2 proteasome_inhibitor=================================
+proteasome_inhibitor logloss: 0.24583505532921254
+=========================================================================================
+protein_kinase_inhibitor , len(trt) : 48
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 protein_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 protein_kinase_inhibitor=================================
+protein_kinase_inhibitor logloss: 0.029037176563448047
+=========================================================================================
+protein_phosphatase_inhibitor , len(trt) : 24
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 protein_phosphatase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 protein_phosphatase_inhibitor=================================
+protein_phosphatase_inhibitor logloss: 0.0135490623985759
+=========================================================================================
+protein_synthesis_inhibitor , len(trt) : 103
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 protein_synthesis_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 protein_synthesis_inhibitor=================================
+protein_synthesis_inhibitor logloss: 0.12580458077440476
+=========================================================================================
+protein_tyrosine_kinase_inhibitor , len(trt) : 43
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 protein_tyrosine_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 protein_tyrosine_kinase_inhibitor=================================
+protein_tyrosine_kinase_inhibitor logloss: 0.017553185427835388
+=========================================================================================
+radiopaque_medium , len(trt) : 56
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 radiopaque_medium=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 radiopaque_medium=================================
+radiopaque_medium logloss: 0.03267287971316453
+=========================================================================================
+raf_inhibitor , len(trt) : 223
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 raf_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 raf_inhibitor=================================
+raf_inhibitor logloss: 0.234588865297795
+=========================================================================================
+ras_gtpase_inhibitor , len(trt) : 84
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 ras_gtpase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 ras_gtpase_inhibitor=================================
+ras_gtpase_inhibitor logloss: 0.06232505638238768
+=========================================================================================
+retinoid_receptor_agonist , len(trt) : 67
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 retinoid_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 retinoid_receptor_agonist=================================
+retinoid_receptor_agonist logloss: 0.038158266784416674
+=========================================================================================
+retinoid_receptor_antagonist , len(trt) : 6
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 retinoid_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 retinoid_receptor_antagonist=================================
+retinoid_receptor_antagonist logloss: 0.002009215887981394
+=========================================================================================
+rho_associated_kinase_inhibitor , len(trt) : 35
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 rho_associated_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 rho_associated_kinase_inhibitor=================================
+rho_associated_kinase_inhibitor logloss: 0.015357064785695066
+=========================================================================================
+ribonucleoside_reductase_inhibitor , len(trt) : 37
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 ribonucleoside_reductase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 ribonucleoside_reductase_inhibitor=================================
+ribonucleoside_reductase_inhibitor logloss: 0.01598917542810166
+=========================================================================================
+rna_polymerase_inhibitor , len(trt) : 25
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 rna_polymerase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 rna_polymerase_inhibitor=================================
+rna_polymerase_inhibitor logloss: 0.005290305601945357
+=========================================================================================
+serotonin_receptor_agonist , len(trt) : 236
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 serotonin_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 serotonin_receptor_agonist=================================
+serotonin_receptor_agonist logloss: 0.1531685863941
+=========================================================================================
+serotonin_receptor_antagonist , len(trt) : 404
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 serotonin_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 serotonin_receptor_antagonist=================================
+serotonin_receptor_antagonist logloss: 0.17656114451448277
+=========================================================================================
+serotonin_reuptake_inhibitor , len(trt) : 80
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 serotonin_reuptake_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 serotonin_reuptake_inhibitor=================================
+serotonin_reuptake_inhibitor logloss: 0.04863659879187151
+=========================================================================================
+sigma_receptor_agonist , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 sigma_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 sigma_receptor_agonist=================================
+sigma_receptor_agonist logloss: 0.018446005316579257
+=========================================================================================
+sigma_receptor_antagonist , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 sigma_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 sigma_receptor_antagonist=================================
+sigma_receptor_antagonist logloss: 0.01830023319574775
+=========================================================================================
+smoothened_receptor_antagonist , len(trt) : 25
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 smoothened_receptor_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 smoothened_receptor_antagonist=================================
+smoothened_receptor_antagonist logloss: 0.010828455293300503
+=========================================================================================
+sodium_channel_inhibitor , len(trt) : 273
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 sodium_channel_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 sodium_channel_inhibitor=================================
+sodium_channel_inhibitor logloss: 0.14122426188273882
+=========================================================================================
+sphingosine_receptor_agonist , len(trt) : 32
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 sphingosine_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 sphingosine_receptor_agonist=================================
+sphingosine_receptor_agonist logloss: 0.015149457014415904
+=========================================================================================
+src_inhibitor , len(trt) : 71
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 src_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 src_inhibitor=================================
+src_inhibitor logloss: 0.06054587035287521
+=========================================================================================
+steroid , len(trt) : 97
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 steroid=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 steroid=================================
+steroid logloss: 0.07111056546934767
+=========================================================================================
+syk_inhibitor , len(trt) : 19
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 syk_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 syk_inhibitor=================================
+syk_inhibitor logloss: 0.006074566203103259
+=========================================================================================
+tachykinin_antagonist , len(trt) : 60
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 tachykinin_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 tachykinin_antagonist=================================
+tachykinin_antagonist logloss: 0.039519734027909294
+=========================================================================================
+tgf-beta_receptor_inhibitor , len(trt) : 30
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 tgf-beta_receptor_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 tgf-beta_receptor_inhibitor=================================
+tgf-beta_receptor_inhibitor logloss: 0.018878865676544076
+=========================================================================================
+thrombin_inhibitor , len(trt) : 19
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 thrombin_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 thrombin_inhibitor=================================
+thrombin_inhibitor logloss: 0.004852219559232075
+=========================================================================================
+thymidylate_synthase_inhibitor , len(trt) : 37
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 thymidylate_synthase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 thymidylate_synthase_inhibitor=================================
+thymidylate_synthase_inhibitor logloss: 0.019997219469907897
+=========================================================================================
+tlr_agonist , len(trt) : 30
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 tlr_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 tlr_agonist=================================
+tlr_agonist logloss: 0.011836350958132947
+=========================================================================================
+tlr_antagonist , len(trt) : 7
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 tlr_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 tlr_antagonist=================================
+tlr_antagonist logloss: 0.0015263282105219117
+=========================================================================================
+tnf_inhibitor , len(trt) : 36
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 tnf_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 tnf_inhibitor=================================
+tnf_inhibitor logloss: 0.02400998729596834
+=========================================================================================
+topoisomerase_inhibitor , len(trt) : 127
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 topoisomerase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 topoisomerase_inhibitor=================================
+topoisomerase_inhibitor logloss: 0.09271597986473336
+=========================================================================================
+transient_receptor_potential_channel_antagonist , len(trt) : 18
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 transient_receptor_potential_channel_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 transient_receptor_potential_channel_antagonist=================================
+transient_receptor_potential_channel_antagonist logloss: 0.007503960649699289
+=========================================================================================
+tropomyosin_receptor_kinase_inhibitor , len(trt) : 291
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 tropomyosin_receptor_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 tropomyosin_receptor_kinase_inhibitor=================================
+tropomyosin_receptor_kinase_inhibitor logloss: 0.24851397029740765
+=========================================================================================
+trpv_agonist , len(trt) : 25
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 trpv_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 trpv_agonist=================================
+trpv_agonist logloss: 0.009442346633110901
+=========================================================================================
+trpv_antagonist , len(trt) : 48
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 trpv_antagonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 trpv_antagonist=================================
+trpv_antagonist logloss: 0.02630244737942007
+=========================================================================================
+tubulin_inhibitor , len(trt) : 316
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 tubulin_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 tubulin_inhibitor=================================
+tubulin_inhibitor logloss: 0.16811093657170068
+=========================================================================================
+tyrosine_kinase_inhibitor , len(trt) : 73
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 tyrosine_kinase_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 tyrosine_kinase_inhibitor=================================
+tyrosine_kinase_inhibitor logloss: 0.047995179222737015
+=========================================================================================
+ubiquitin_specific_protease_inhibitor , len(trt) : 12
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 ubiquitin_specific_protease_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 ubiquitin_specific_protease_inhibitor=================================
+ubiquitin_specific_protease_inhibitor logloss: 0.006116274708094389
+=========================================================================================
+vegfr_inhibitor , len(trt) : 170
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 vegfr_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 vegfr_inhibitor=================================
+vegfr_inhibitor logloss: 0.11427105573777943
+=========================================================================================
+vitamin_b , len(trt) : 26
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 vitamin_b=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 vitamin_b=================================
+vitamin_b logloss: 0.00455711739532656
+=========================================================================================
+vitamin_d_receptor_agonist , len(trt) : 39
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 vitamin_d_receptor_agonist=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 vitamin_d_receptor_agonist=================================
+vitamin_d_receptor_agonist logloss: 0.05857878033697543
+=========================================================================================
+wnt_inhibitor , len(trt) : 30
+================= Pseudo labeling 1 / 3 =================
+================= Pseudo labeling 2 / 3 =================
+================= Pseudo labeling 3 / 3 =================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 1/2 wnt_inhibitor=================================
+len(train_index) : 2491
+len(valid_index) : 2491
+================================= fold 2/2 wnt_inhibitor=================================
+wnt_inhibitor logloss: 0.015502361638376615
+=========================================================================================
