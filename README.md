@@ -172,14 +172,14 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 - [20201023-moa-lgbm-v3.ipynb](notebooks/20201023-moa-lgbm-v3.ipynb)
   - minor modifications, DEBUG=True:CV:0.01672, False:CV:0.01636
-  - CV:0.0163661, LB: (Debug = False)
+  - CV:0.0163661, LB:0.02046 (Debug = False)
   - [log](log/log.v3.moa.lgbm.log)
 
   ![feature_importance_v3](https://user-images.githubusercontent.com/50528980/97064265-4bf50e80-156a-11eb-8b13-31b8cfc18b63.png)
   
 - [20201023-moa-lgbm-v4.ipynb](notebooks/20201023-moa-lgbm-v4.ipynb)
   - minor modifications, DEBUG=True:CV:0.01672, False:CV:0.01636
-  - CV:0.01864309, LB: (Debug = True)
+  - CV:0.01864309, LB:0.02033 (Debug = True)
   - [log](log/log.v4.moa.lgbm.log)
 
   ![feature_importance_v4](https://user-images.githubusercontent.com/50528980/97064725-b5c2e780-156d-11eb-8519-d289bf6869a9.png)
