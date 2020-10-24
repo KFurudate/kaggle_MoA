@@ -185,3 +185,13 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   ![feature_importance_v4](https://user-images.githubusercontent.com/50528980/97064725-b5c2e780-156d-11eb-8519-d289bf6869a9.png)
 
 ### I found that the oversampling of the positive cases (minority) and the downsampling of the negative cases (majority) resulted in sample selection bias.
+
+## 20201024
+- [20201024-moa-lgbm-benchmark-v13.ipynb](notebooks/20201024-moa-lgbm-benchmark-v13.ipynb)
+  - Feature engineering based on feature importance
+  - CV:0.04900, LB: (Debug = True)
+  - [log](log/log.v13.log)
+  - [feature_importance](data/feature_importance_df.v13.csv)
+  
+  ![feature_importance_v13](https://user-images.githubusercontent.com/50528980/97093231-ca57bc00-160f-11eb-96ca-2cf5e41b3fc3.png)
+
