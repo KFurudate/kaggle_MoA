@@ -188,7 +188,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201024
 - [20201024-moa-lgbm-benchmark-v13.ipynb](notebooks/20201024-moa-lgbm-benchmark-v13.ipynb)
-  - Feature engineering based on feature importance
+  - Calibration, SMOTE(k_neighbors=5→1)
   - CV:0.04900, LB: (Debug = True)
   - [log](log/log.v13.log)
   - [feature_importance](data/feature_importance_df.v13.csv)
