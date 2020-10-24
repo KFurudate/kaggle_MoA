@@ -172,7 +172,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 - [20201023-moa-lgbm-v3.ipynb](notebooks/20201023-moa-lgbm-v3.ipynb)
   - minor modifications, DEBUG=True:CV:0.01672, False:CV:0.01636
-  - CV:CV:0.0163661, LB: (Debug = False)
+  - CV:0.0163661, LB: (Debug = False)
   - [log](log/log.v3.moa.lgbm.log)
 
   ![feature_importance_v3](https://user-images.githubusercontent.com/50528980/97064265-4bf50e80-156a-11eb-8b13-31b8cfc18b63.png)
