@@ -196,7 +196,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   ![feature_importance_v13](https://user-images.githubusercontent.com/50528980/97093231-ca57bc00-160f-11eb-96ca-2cf5e41b3fc3.png)
 
 - [20201024-moa-lgbm-benchmark-v14.ipynb](notebooks/20201024-moa-lgbm-benchmark-v14.ipynb)
-  - Calibration, SMOTE(k_neighbors=5→1)
+  - Removed the Calibration, SMOTE(k_neighbors=1), asude labeling (thresholds:0.7)
   - CV:0.048851, LB: (Debug = True)
   - [log](log/log.v14.log)
   - [feature_importance](data/feature_importance_df.v14.csv)
