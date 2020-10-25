@@ -197,7 +197,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 - [20201024-moa-lgbm-benchmark-v14.ipynb](notebooks/20201024-moa-lgbm-benchmark-v14.ipynb)
   - Removed the Calibration, SMOTE(k_neighbors=1), pasude labeling (thresholds:0.7)
-  - CV:0.048851, LB: (Debug = True)
+  - CV:0.048851, LB:0.03773 (Debug = True)
   - [log](log/log.v14.log)
   - [feature_importance](data/feature_importance_df.v14.csv)
   
