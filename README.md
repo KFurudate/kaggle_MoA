@@ -203,4 +203,13 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
   ![feature_importance_v14](https://user-images.githubusercontent.com/50528980/97096293-b6bc4d80-162f-11eb-85cd-21b5d066e75d.png)
 
+## 20201025
+- [20201024-moa-lgbm-benchmark-v15.ipynb](notebooks/20201024-moa-lgbm-benchmark-v15.ipynb)
+  -  [Updata anotated data](data/20201024_moa_sig_list.v2.csv)
+  - CV:0.044141, LB: (Debug = True)
+  - [log](log/log.v15.log)
+  - [feature_importance](data/feature_importance_df.v15.csv)
+  
+  ![feature_importance_v15](https://user-images.githubusercontent.com/50528980/97120090-bd57cd00-16e2-11eb-8f6c-0e4cc34658af.png)
+
 
