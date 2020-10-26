@@ -206,7 +206,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 ## 20201025
 - [20201024-moa-lgbm-benchmark-v15.ipynb](notebooks/20201024-moa-lgbm-benchmark-v15.ipynb)
   -  [Updata anotated data](data/20201024_moa_sig_list.v2.csv)
-  - CV:0.044141, LB: (Debug = True)
+  - CV:0.044141, LB:0.0391 (Debug = True)
   - [log](log/log.v15.log)
   - [feature_importance](data/feature_importance_df.v15.csv)
   
