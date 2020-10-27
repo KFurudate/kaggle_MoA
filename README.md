@@ -205,7 +205,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201025
 - [20201024-moa-lgbm-benchmark-v15.ipynb](notebooks/20201024-moa-lgbm-benchmark-v15.ipynb)
-  -  [Updata anotated data](data/20201024_moa_sig_list.v2.csv)
+  - [Updata anotated data](data/20201024_moa_sig_list.v2.csv)
   - CV:0.044141, LB:0.0391 (Debug = True)
   - [log](log/log.v15.log)
   - [feature_importance](data/feature_importance_df.v15.csv)
@@ -216,3 +216,11 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 - [20201025-moa-lgbm-benchmark-v16.ipynb](notebooks/20201025-moa-lgbm-benchmark-v16.ipynb)
   - Remove noisy label(confidence: 0.9)
   - CV: failure, LB: failure (Debug = True)
+
+## 20201027
+- [20201026-moa-lgbm-benchmark-v17.ipynb](notebooks/20201026-moa-lgbm-benchmark-v17.ipynb)
+  - CV:0.0452748, LB: (Debug = True)
+  - [log](log/log.v17.log)
+  
+  ![feature_importance_v17](https://user-images.githubusercontent.com/50528980/97324917-66680a00-1840-11eb-9213-7a0748f2b648.png)
+  
