@@ -212,4 +212,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
   ![feature_importance_v15](https://user-images.githubusercontent.com/50528980/97120090-bd57cd00-16e2-11eb-8f6c-0e4cc34658af.png)
 
-
+## 20201026
+- [20201025-moa-lgbm-benchmark-v16.ipynb](notebooks/20201025-moa-lgbm-benchmark-v16.ipynb)
+  - Remove noisy label(confidence: 0.9)
+  - CV: failure, LB: failure (Debug = True)
