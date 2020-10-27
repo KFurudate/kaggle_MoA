@@ -219,7 +219,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201027
 - [20201026-moa-lgbm-benchmark-v17.ipynb](notebooks/20201026-moa-lgbm-benchmark-v17.ipynb)
-  - CV:0.0452748, LB: (Debug = True)
+  - CV:0.0452748, LB:0.05224 (Debug = True)
   - [log](log/log.v17.log)
   
   ![feature_importance_v17](https://user-images.githubusercontent.com/50528980/97324917-66680a00-1840-11eb-9213-7a0748f2b648.png)
