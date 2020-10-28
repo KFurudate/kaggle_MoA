@@ -246,7 +246,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
 - [20201027-moa-lgbm-benchmark-v20.ipynb](notebooks/20201027-moa-lgbm-benchmark-v20.ipynb)
   - Modifications with pseudo_labeling func, Removed the Calibration, SMOTE(k_neighbors=2), 
-  - CV:0.0281714, LB: (Debug = True)
+  - CV:0.0281714, LB:0.10660 (Debug = True)
   - [log](log/log.v20.log)
   
   ![feature_importance_v20](https://user-images.githubusercontent.com/50528980/97493438-f2f2f500-1932-11eb-82ca-8a42f4305395.png)
