@@ -226,7 +226,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   ![feature_importance_v17](https://user-images.githubusercontent.com/50528980/97324917-66680a00-1840-11eb-9213-7a0748f2b648.png)
 
 - [20201027-moa-lgbm-benchmark-v18.ipynb](notebooks/20201027-moa-lgbm-benchmark-v18.ipynb)
-  - SMOTE(k_neighbors=1→2), confidence = y_prob.probability.max()*0.2
+  - SMOTE(k_neighbors=1→2), confidence = y_prob.probability.max()*0.2, Calibration
   - CV:0.0386774, LB:0.05382(Debug = True)
   - [log](log/log.v18.log)
   
@@ -238,7 +238,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
 ## 20201028
 - [20201027-moa-lgbm-benchmark-v19.ipynb](notebooks/20201027-moa-lgbm-benchmark-v19.ipynb)
-  - SMOTE(k_neighbors=2→3), confidence = y_prob.probability.max()*0.2
+  - SMOTE(k_neighbors=2→3), confidence = y_prob.probability.max()*0.2, Calibration
   - CV:0.0389749, LB:0.05388 (Debug = True)
   - [log](log/log.v19.log)
   
