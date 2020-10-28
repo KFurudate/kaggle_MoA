@@ -219,8 +219,17 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 ## 20201027
 - [20201026-moa-lgbm-benchmark-v17.ipynb](notebooks/20201026-moa-lgbm-benchmark-v17.ipynb)
+  - Modifications with remove noisy label func, Add Calibration, , confidence = y_prob.probability.max()*0.3
   - CV:0.0452748, LB:0.05224 (Debug = True)
   - [log](log/log.v17.log)
   
   ![feature_importance_v17](https://user-images.githubusercontent.com/50528980/97324917-66680a00-1840-11eb-9213-7a0748f2b648.png)
+
+- [20201027-moa-lgbm-benchmark-v18.ipynb](notebooks/20201027-moa-lgbm-benchmark-v18.ipynb)
+  - SMOTE(k_neighbors=1→2), confidence = y_prob.probability.max()*0.2
+  - CV:0.0386774, LB:(Debug = True)
+  - [log](log/log.v18.log)
+  
+  ![feature_importance_v18](https://user-images.githubusercontent.com/50528980/97387909-f8a1f980-18a4-11eb-9fc2-6075b94ab517.png)
+  
   
