@@ -236,3 +236,11 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - I'll read it later.
   - reference: https://www.kaggle.com/c/lish-moa/discussion/190693
   
+## 20201028
+- [20201026-moa-lgbm-benchmark-v17.ipynb](notebooks/20201026-moa-lgbm-benchmark-v17.ipynb)
+  - SMOTE(k_neighbors=2→3)
+  - CV:0.0389749, LB: (Debug = True)
+  - [log](log/log.v19.log)
+  
+  ![feature_importance_v19](https://user-images.githubusercontent.com/50528980/97471386-a8fc1600-1916-11eb-8f03-80221a06b311.png)
+  
