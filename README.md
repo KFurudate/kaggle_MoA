@@ -237,7 +237,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - reference: https://www.kaggle.com/c/lish-moa/discussion/190693
   
 ## 20201028
-- [20201026-moa-lgbm-benchmark-v17.ipynb](notebooks/20201026-moa-lgbm-benchmark-v17.ipynb)
+- [20201027-moa-lgbm-benchmark-v19.ipynb](notebooks/20201027-moa-lgbm-benchmark-v19.ipynb)
   - SMOTE(k_neighbors=2→3)
   - CV:0.0389749, LB: (Debug = True)
   - [log](log/log.v19.log)
