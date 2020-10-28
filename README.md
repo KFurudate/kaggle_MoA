@@ -227,7 +227,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 - [20201027-moa-lgbm-benchmark-v18.ipynb](notebooks/20201027-moa-lgbm-benchmark-v18.ipynb)
   - SMOTE(k_neighbors=1→2), confidence = y_prob.probability.max()*0.2
-  - CV:0.0386774, LB:(Debug = True)
+  - CV:0.0386774, LB:0.05382(Debug = True)
   - [log](log/log.v18.log)
   
   ![feature_importance_v18](https://user-images.githubusercontent.com/50528980/97387909-f8a1f980-18a4-11eb-9fc2-6075b94ab517.png)
