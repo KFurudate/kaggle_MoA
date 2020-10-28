@@ -232,4 +232,6 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
   ![feature_importance_v18](https://user-images.githubusercontent.com/50528980/97387909-f8a1f980-18a4-11eb-9fc2-6075b94ab517.png)
 
-- [High-throughput identification of genotype-specific cancer vulnerabilities in mixtures of barcoded tumor cell lines.pdf](Related papers/High-throughput identification of genotype-specific cancer vulnerabilities in mixtures of barcoded tumor cell lines.pdf)
+- [High-throughput identification of genotype-specific cancer vulnerabilities in mixtures of barcoded tumor cell lines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508574/)
+  - reference: https://www.kaggle.com/c/lish-moa/discussion/190693
+  
