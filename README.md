@@ -252,13 +252,10 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   ![feature_importance_v20](https://user-images.githubusercontent.com/50528980/97493438-f2f2f500-1932-11eb-82ca-8a42f4305395.png)
   
 
-- I decided to implement PR-AUC since CV and LB are separated.
-  - reference: https://www.kaggle.com/c/lish-moa/discussion/180061
-  - reference: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html#sklearn.metrics.average_precision_score
-  - reference: https://qiita.com/dcm_yukimasa-kaneda/items/5eaadbdeec10d92020c6#3-%E3%83%A2%E3%83%87%E3%83%AB%E6%A7%8B%E7%AF%89%E6%96%B9%E6%B3%95
-  
-  <img width="662" alt="Screen Shot 2020-10-28 at 22 02 47" src="https://user-images.githubusercontent.com/50528980/97520522-716a8980-1969-11eb-9041-8dd035ed23d5.png">
-  
+- CV improves, but LBs are bad. I think this is due to the inclusion of low confidence pseudo labels in the TEST data.
+  - reference: https://www.kaggle.com/c/lish-moa/discussion/191135
+  <img width="652" alt="Screen Shot 2020-10-29 at 13 57 25" src="https://user-images.githubusercontent.com/50528980/97619961-e2a05000-19ee-11eb-94c3-92c0ce5b9e84.png">
+
 ## 20201029
 - [20201029-moa-lgbm-benchmark-v22.ipynb](notebooks/20201029-moa-lgbm-benchmark-v22.ipynb)
   - minor modifications
