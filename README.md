@@ -257,6 +257,14 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   <img width="652" alt="Screen Shot 2020-10-29 at 13 57 25" src="https://user-images.githubusercontent.com/50528980/97619961-e2a05000-19ee-11eb-94c3-92c0ce5b9e84.png">
 
 ## 20201029
+- [20201028-moa-lgbm-benchmark-v21.ipynb](notebooks/20201028-moa-lgbm-benchmark-v21.ipynbb)
+  - minor modifications
+  - CV:0.02459585, LB: (Debug = False)
+  - [log](log/log.v21.log)
+  
+  ![feature_importance_v21](https://user-images.githubusercontent.com/50528980/97635109-d1fad480-1a04-11eb-880d-59b9e87e461d.png)
+
+
 - [20201029-moa-lgbm-benchmark-v22.ipynb](notebooks/20201029-moa-lgbm-benchmark-v22.ipynb)
   - minor modifications
   - CV:0.028116, LB:0.12838 (Debug = True)
@@ -275,3 +283,12 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [log](log/log.v24.log)
   
   ![feature_importance_v24](https://user-images.githubusercontent.com/50528980/97626013-4a5a9900-19f7-11eb-8b0a-aefad298d2da.png)
+
+- [20201029-moa-lgbm-benchmark-v25.ipynb](notebooks/20201029-moa-lgbm-benchmark-v25.ipynb)
+  - Feature engineering based on Feature importance
+  - CV:0.02595783, LB: (Debug = True)
+  - [log](log/log.v25.log)
+  
+  ![feature_importance_v25](https://user-images.githubusercontent.com/50528980/97635156-e5a63b00-1a04-11eb-97eb-2249a43b9613.png)
+
+  
