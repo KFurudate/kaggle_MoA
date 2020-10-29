@@ -261,8 +261,8 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
 ## 20201029
 - [20201029-moa-lgbm-benchmark-v22.ipynb](notebooks/20201029-moa-lgbm-benchmark-v22.ipynb)
-  - minor modifications, Max_depth = 7→6
-  - CV:0.028116, LB: (Debug = True)
+  - minor modifications
+  - CV:0.028116, LB:0.12838 (Debug = True)
   - [log](log/log.v22.log)
 
 
