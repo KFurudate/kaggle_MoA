@@ -258,6 +258,12 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - reference: https://qiita.com/dcm_yukimasa-kaneda/items/5eaadbdeec10d92020c6#3-%E3%83%A2%E3%83%87%E3%83%AB%E6%A7%8B%E7%AF%89%E6%96%B9%E6%B3%95
   
   <img width="662" alt="Screen Shot 2020-10-28 at 22 02 47" src="https://user-images.githubusercontent.com/50528980/97520522-716a8980-1969-11eb-9041-8dd035ed23d5.png">
+  
+## 20201029
+- [20201029-moa-lgbm-benchmark-v22.ipynb](notebooks/20201029-moa-lgbm-benchmark-v22.ipynb)
+  - minor modifications, Max_depth = 7→6
+  - CV:0.028116, LB: (Debug = True)
+  - [log](log/log.v22.log)
 
 
   
