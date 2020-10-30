@@ -301,7 +301,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 - [20201029-moa-lgbm-benchmark-v28.ipynb](notebooks/20201029-moa-lgbm-benchmark-v28.ipynb)
   - LGBMClassifie:clf.predict→clf.predict_proba, with Calibration 
-  - CV:0.066562, LB: (Debug = True)
+  - CV:0.066562, LB:0.66135 (Debug = True)
   - [log](log/log.v28.log)
   
   ![feature_importance_v28](https://user-images.githubusercontent.com/50528980/97657614-531f8f00-1a38-11eb-9286-f4f3ae6d0e80.png)
