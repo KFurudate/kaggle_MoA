@@ -293,7 +293,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
 - [20201029-moa-lgbm-benchmark-v26.ipynb](notebooks/20201029-moa-lgbm-benchmark-v26.ipynb)
   - Feature engineering based on Feature importance
-  - CV:0.061961, LB: (Debug = True)
+  - CV:0.061961, LB: 0.48935 (Debug = True)
   - [log](log/log.v26.log)
 
   ![feature_importance_v26](https://user-images.githubusercontent.com/50528980/97651460-1e0c4000-1a2a-11eb-878e-bfcbb00c6a7f.png)
