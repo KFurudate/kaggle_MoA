@@ -321,6 +321,13 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   ![feature_importance_v30](https://user-images.githubusercontent.com/50528980/97768806-b4586880-1af3-11eb-9110-f8f3b79c8d18.png)
 
 ## 20201101
+- [20201030-moa-lgbm-benchmark-v30.ipynb](notebooks/20201030-moa-lgbm-benchmark-v30.ipynb)
+  - drop_duplicates(keep="last"), target_rate *= 1.2 
+  - CV: 0.03085, LB: 0.68007 (Debug = True)
+  - [log](log/log.v30.log)
+  
+  ![feature_importance_v31](https://user-images.githubusercontent.com/50528980/97779960-96205600-1b4f-11eb-822c-61c3ed1af0e4.png)
+  
 - Thanks for this discussion, assuming there are at least six groups of drugs, we can know what some of the drugs. But, how can we apply this to our learning?
 
   -reference: https://www.kaggle.com/c/lish-moa/discussion/194190 
