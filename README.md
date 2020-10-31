@@ -339,3 +339,7 @@ Both genes and cell viability measures are based on the same cell lines.
   <img width="789" alt="Screen Shot 2020-10-31 at 7 33 16" src="https://user-images.githubusercontent.com/50528980/97779429-ff05cf00-1b4b-11eb-98f9-189574465af2.png">
   
   <img width="657" alt="Screen Shot 2020-10-31 at 7 34 07" src="https://user-images.githubusercontent.com/50528980/97779456-31173100-1b4c-11eb-8ced-46e962aff0b6.png">
+  
+- I want to know what is the distribution of targets in the test data. I hope this is the same as the train.
+  
+  <img width="618" alt="Screen Shot 2020-10-31 at 13 04 18" src="https://user-images.githubusercontent.com/50528980/97786581-82d6b000-1b7a-11eb-864d-092a0bdbd4ea.png">
