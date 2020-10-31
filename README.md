@@ -305,7 +305,8 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   - [log](log/log.v28.log)
   
   ![feature_importance_v28](https://user-images.githubusercontent.com/50528980/97657614-531f8f00-1a38-11eb-9286-f4f3ae6d0e80.png)
-  
+
+## 20201040
 - [20201029-moa-lgbm-benchmark-v29.ipynb](notebooks/20201029-moa-lgbm-benchmark-v29.ipynb)
   - Remove Calibration, is_unbalance': True, SMOTE(k_neighbors=2→3), Modify pseudo labeling func to include low confidence pseudo labels in the TEST data, target_rate *= 1.2 
   - CV:0.030911, LB: (Debug = True)
@@ -313,3 +314,11 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
   ![feature_importance_v29](https://user-images.githubusercontent.com/50528980/97722407-9c9fc680-1a98-11eb-8c81-d2f267813ef6.png)
 
+- [20201030-moa-lgbm-benchmark-v30.ipynb](notebooks/20201030-moa-lgbm-benchmark-v30.ipynb)
+  - drop_duplicates(keep="last"), target_rate *= 1.2 
+  - CV:0.03085, LB: (Debug = True)
+  - [log](log/log.v30.log)
+  
+  ![feature_importance_v30](https://user-images.githubusercontent.com/50528980/97768806-b4586880-1af3-11eb-9110-f8f3b79c8d18.png)
+
+  
