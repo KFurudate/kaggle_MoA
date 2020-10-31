@@ -10,6 +10,10 @@ In this competition, we have a dataset that combines gene expression and cell vi
 The data were measured simultaneously human cells’ responses to drugs in a pool of 100 different cell types.
 Our aim is to solve the issue of identifying ex-ante, which cell types are better suited for a given drug.in this dataset.
 
+cell viability means that cell lines that have each been labelled with a unique barcode are pooled and treated with the experimental condition, and surviving cells are “counted” through identification of the barcode.
+
+Both genes and cell viability measures are based on the same cell lines.
+
 ## 20201008
 - [download benchmark notebooks](/kaggle_notebooks/)
 
