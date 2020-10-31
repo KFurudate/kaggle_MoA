@@ -321,7 +321,9 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   ![feature_importance_v30](https://user-images.githubusercontent.com/50528980/97768806-b4586880-1af3-11eb-9110-f8f3b79c8d18.png)
 
 ## 20201101
-- Assuming there are at least six groups of drugs, we can know what some of the drugs. But, how can we apply this to our learning?
+- Thanks for this discussion, assuming there are at least six groups of drugs, we can know what some of the drugs. But, how can we apply this to our learning?
+
+  -reference: https://www.kaggle.com/c/lish-moa/discussion/194190 
 
   <img width="789" alt="Screen Shot 2020-10-31 at 7 33 16" src="https://user-images.githubusercontent.com/50528980/97779429-ff05cf00-1b4b-11eb-98f9-189574465af2.png">
   
