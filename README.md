@@ -298,7 +298,6 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 
   ![feature_importance_v26](https://user-images.githubusercontent.com/50528980/97651460-1e0c4000-1a2a-11eb-878e-bfcbb00c6a7f.png)
 
-
 - [20201029-moa-lgbm-benchmark-v28.ipynb](notebooks/20201029-moa-lgbm-benchmark-v28.ipynb)
   - LGBMClassifie:clf.predict→clf.predict_proba, with Calibration 
   - CV:0.066562, LB:0.66135 (Debug = True)
@@ -306,7 +305,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
   
   ![feature_importance_v28](https://user-images.githubusercontent.com/50528980/97657614-531f8f00-1a38-11eb-9286-f4f3ae6d0e80.png)
 
-## 20201040
+## 20201030
 - [20201029-moa-lgbm-benchmark-v29.ipynb](notebooks/20201029-moa-lgbm-benchmark-v29.ipynb)
   - Remove Calibration, is_unbalance': True, SMOTE(k_neighbors=2→3), Modify pseudo labeling func to include low confidence pseudo labels in the TEST data, target_rate *= 1.2 
   - CV:0.030911, LB: (Debug = True)
