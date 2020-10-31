@@ -308,7 +308,7 @@ Our aim is to solve the issue of identifying ex-ante, which cell types are bette
 ## 20201030
 - [20201029-moa-lgbm-benchmark-v29.ipynb](notebooks/20201029-moa-lgbm-benchmark-v29.ipynb)
   - Remove Calibration, is_unbalance': True, SMOTE(k_neighbors=2→3), Modify pseudo labeling func to include low confidence pseudo labels in the TEST data, target_rate *= 1.2 
-  - CV: 0.030911, LB: (Debug = True)
+  - CV: 0.030911, LB: 0.68009(Debug = True)
   - [log](log/log.v29.log)
   
   ![feature_importance_v29](https://user-images.githubusercontent.com/50528980/97722407-9c9fc680-1a98-11eb-8c81-d2f267813ef6.png)
