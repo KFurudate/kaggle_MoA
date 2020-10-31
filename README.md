@@ -324,7 +324,7 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![feature_importance_v30](https://user-images.githubusercontent.com/50528980/97768806-b4586880-1af3-11eb-9110-f8f3b79c8d18.png)
 
-## 20201101
+## 20201031
 - [20201030-moa-lgbm-benchmark-v31.ipynb](notebooks/20201030-moa-lgbm-benchmark-v31.ipynb)
   - target_rate *= 1.1, if Threshold <= 0.2: break, if sum(p_label)*1.5 >= check: break, if sum(p_label) <= check*1.5: break
   - CV:0.0282074(0.029355), LB: 0.68001 (Debug = True)
@@ -345,3 +345,8 @@ Both genes and cell viability measures are based on the same cell lines.
   - reference: https://www.kaggle.com/c/lish-moa/discussion/193907
   
   <img width="618" alt="Screen Shot 2020-10-31 at 13 04 18" src="https://user-images.githubusercontent.com/50528980/97786581-82d6b000-1b7a-11eb-864d-092a0bdbd4ea.png">
+
+- I'll try Runk Gauss scaling
+  - reference: https://www.kaggle.com/c/lish-moa/discussion/193878
+
+<img width="646" alt="Screen Shot 2020-10-31 at 17 51 25" src="https://user-images.githubusercontent.com/50528980/97791572-c85aa380-1ba1-11eb-96f6-ba8fd1c613bf.png">
