@@ -350,6 +350,9 @@ Both genes and cell viability measures are based on the same cell lines.
   - reference: https://www.kaggle.com/c/lish-moa/discussion/193878
 
   <img width="646" alt="Screen Shot 2020-10-31 at 17 51 25" src="https://user-images.githubusercontent.com/50528980/97791572-c85aa380-1ba1-11eb-96f6-ba8fd1c613bf.png">
+  
+  <img width="577" alt="Screen Shot 2020-11-01 at 8 39 14" src="https://user-images.githubusercontent.com/50528980/97805790-d5b57380-1c1d-11eb-8f3e-cbe6e078ed0e.png">
+
 
 - [20201101-moa-lgbm-benchmark-v32.ipynb](notebooks/20201101-moa-lgbm-benchmark-v32.ipynb)
   - y_prob.probability.quantile(0.3), if Threshold >= 0.95: break
