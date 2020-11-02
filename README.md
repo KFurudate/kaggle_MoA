@@ -362,7 +362,7 @@ Both genes and cell viability measures are based on the same cell lines.
   ![feature_importance_v32](https://user-images.githubusercontent.com/50528980/97793537-5727ea00-1bbb-11eb-9e15-ada90797032e.png)
 
 
-- [20201101-moa-lgbm-benchmark-v33.ipynb](notebooks/20201101-moa-lgbm-benchmark-v33.ipynb)
+- [20201031-moa-lgbm-benchmark-v33.ipynb](notebooks/20201031-moa-lgbm-benchmark-v33.ipynb)
   - RankGauss, Scaled by category, SMOTE(k_neighbors=2,
   - CV:0.027925299, LB:0.03448 (Debug = True)
   - [log](log/log.v33.log)
