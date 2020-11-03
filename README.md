@@ -372,7 +372,7 @@ Both genes and cell viability measures are based on the same cell lines.
 ## 20201102
 - [20201102-moa-lgbm-benchmark-v35.ipynb](notebooks/20201102-moa-lgbm-benchmark-v35.ipynb)
   - f_div = lambda x: ((x+d)*10 / (abs(med)+d))**2, f_diff = lambda x: ((x-med)*10)**2, select features
-  - CV:0.03244971, LB:(Debug = True)
+  - CV:0.03244971, LB: Notebook Timeout(Debug = True)
   - [log](log/log.v35.log)
   
   ![all_feature_importance_v35](https://user-images.githubusercontent.com/50528980/97951012-4e234e00-1d5e-11eb-86b1-158935ee8bcb.png)
