@@ -376,4 +376,13 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v35.log)
   
   ![all_feature_importance_v35](https://user-images.githubusercontent.com/50528980/97951012-4e234e00-1d5e-11eb-86b1-158935ee8bcb.png)
+    
+## 20201103
+- [20201102-moa-lgbm-v36.ipynb](notebooks/20201102-moa-lgbm-v36.ipynb)
+  - Add feature importance
+  - CV:0.034882, LB: Cannot submit with internet access  (Debug = True)
+  - [log](log/log.v36.log)
+  
+  ![all_feature_importance_v36](https://user-images.githubusercontent.com/50528980/98018360-0e904c80-1dc6-11eb-8b53-ba9c531bf33a.png)
+  
 
