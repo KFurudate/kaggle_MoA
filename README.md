@@ -353,7 +353,7 @@ Both genes and cell viability measures are based on the same cell lines.
   
   <img width="577" alt="Screen Shot 2020-11-01 at 8 39 14" src="https://user-images.githubusercontent.com/50528980/97805790-d5b57380-1c1d-11eb-8f3e-cbe6e078ed0e.png">
 
-
+## 20201101
 - [20201101-moa-lgbm-benchmark-v32.ipynb](notebooks/20201101-moa-lgbm-benchmark-v32.ipynb)
   - y_prob.probability.quantile(0.3), if Threshold >= 0.95: break
   - CV:0.029914(0.029355), LB:no sub (Debug = True)
@@ -368,3 +368,12 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v33.log)
 
   ![feature_importance_v33](https://user-images.githubusercontent.com/50528980/97913131-83567e80-1d13-11eb-81ad-c6187d77baa9.png)
+  
+## 20201102
+- [20201102-moa-lgbm-benchmark-v35.ipynb](notebooks/20201102-moa-lgbm-benchmark-v35.ipynb)
+  - f_div = lambda x: ((x+d)*10 / (abs(med)+d))**2, f_diff = lambda x: ((x-med)*10)**2, select features
+  - CV:0.03244971, LB:(Debug = True)
+  - [log](log/log.v35.log)
+  
+  ![all_feature_importance_v35](https://user-images.githubusercontent.com/50528980/97951012-4e234e00-1d5e-11eb-86b1-158935ee8bcb.png)
+
