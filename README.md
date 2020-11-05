@@ -395,4 +395,19 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![all_feature_importance_v37](https://user-images.githubusercontent.com/50528980/98200142-91162a80-1ef2-11eb-8714-7b34f413c3cd.png)
 
+- New data file available: train_drug.csv
+  - Drug and MultiLabel Stratification Code
+  - reference: https://www.kaggle.com/c/lish-moa/discussion/195195
+  - reference: https://www.kaggle.com/c/lish-moa/discussion/195170
+  
+  <img width="324" alt="Screen Shot 2020-11-03 at 20 30 42" src="https://user-images.githubusercontent.com/50528980/98200300-f0743a80-1ef2-11eb-885e-5ef2357c034c.png">
+  
+- Intresting comment by host
+  - reference: https://www.kaggle.com/c/lish-moa/discussion/195170
+  
+  <img width="649" alt="Screen Shot 2020-11-03 at 22 42 22" src="https://user-images.githubusercontent.com/50528980/98200661-b0fa1e00-1ef3-11eb-8504-e033ca32f3dc.png">
 
+
+
+- [20201103-moa-lgbm-v37.ipynb](notebooks/20201103-moa-lgbm-v37.ipynb)
+  - Add MultiLabel Stratification func, fix index of data before split with "data = data.sort_index(axis='index')"
