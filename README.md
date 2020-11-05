@@ -407,7 +407,5 @@ Both genes and cell viability measures are based on the same cell lines.
   
   <img width="649" alt="Screen Shot 2020-11-03 at 22 42 22" src="https://user-images.githubusercontent.com/50528980/98200661-b0fa1e00-1ef3-11eb-8504-e033ca32f3dc.png">
 
-
-
 - [20201103-moa-lgbm-v37.ipynb](notebooks/20201103-moa-lgbm-v37.ipynb)
   - Add MultiLabel Stratification func, fix index of data before split with "data = data.sort_index(axis='index')"
