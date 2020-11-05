@@ -385,4 +385,14 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![all_feature_importance_v36](https://user-images.githubusercontent.com/50528980/98018360-0e904c80-1dc6-11eb-8b53-ba9c531bf33a.png)
   
+## 20201104
+- [20201103-moa-lgbm-v37.ipynb](notebooks/20201103-moa-lgbm-v37.ipynb)
+  - Remove RankGauss for gene expression, fix feature importance func
+  - CV:0.0327302, LB: 0.03264 (Debug = True)
+  - [log](log/log.v37.log)
+  - [importance_cols_df.v37.csv](/data/)
+  - [feature_importance_df.v37.csv](/data/)
+  
+  ![all_feature_importance_v37](https://user-images.githubusercontent.com/50528980/98200142-91162a80-1ef2-11eb-8714-7b34f413c3cd.png)
+
 
