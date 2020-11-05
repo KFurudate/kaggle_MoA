@@ -411,7 +411,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - Add MultiLabel Stratification func, fix index of data before split with "data = data.sort_index(axis='index')"
 
 - [20201103-moa-lgbm-v39-2.ipynb](notebooks/20201103-moa-lgbm-v39-2.ipynb)
-  - Remove RankGauss for gene expression, fix feature importance func
+  - fix pseudo labeling func
   - CV:0.0193437, LB: (Debug = True)
   - [log](log/log.v39.log)
   - [importance_cols_df.v39.csv](/data/)
