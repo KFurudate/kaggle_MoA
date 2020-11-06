@@ -412,7 +412,7 @@ Both genes and cell viability measures are based on the same cell lines.
 
 - [20201103-moa-lgbm-v39-2.ipynb](notebooks/20201103-moa-lgbm-v39-2.ipynb)
   - fix pseudo labeling func
-  - CV:0.0193437, LB: (Debug = True)
+  - CV:0.0193437, LB:0.04470 (Debug = True)
   - [log](log/log.v39.log)
   - [importance_cols_df.v39.csv](/data/)
   - [feature_importance_df.v39.csv](/data/)
