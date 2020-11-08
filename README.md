@@ -450,5 +450,5 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![all_feature_importance_v40 2](https://user-images.githubusercontent.com/50528980/98457504-9d49f400-214d-11eb-9c2b-c8fb26194f30.png)
   
-  
+# I decided to use two notebooks. First, a select notebook that picks up important features for each target. Second, the inference notebook does train and inference with selected important features.
   
