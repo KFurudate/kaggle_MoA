@@ -461,3 +461,5 @@ Both genes and cell viability measures are based on the same cell lines.
   - Inference based on v40.2 note book(updated fe_stats func), Debug=False, modify  eature_Engineering func, check*(3.5-len(str(int(check))))
   - CV:0.024157, LB: 0.05774 (Debug=False)
   - [log](log/log.v44.2.log)
+
+## 20201107
