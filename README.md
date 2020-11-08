@@ -451,4 +451,9 @@ Both genes and cell viability measures are based on the same cell lines.
   ![all_feature_importance_v40 2](https://user-images.githubusercontent.com/50528980/98457504-9d49f400-214d-11eb-9c2b-c8fb26194f30.png)
   
 # I decided to use two notebooks. First, a select notebook that picks up important features for each target. Second, the inference notebook does train and inference with selected important features.
+
+- [20201106-moa-lgbm-inference-v43.ipynb](notebooks/20201106-moa-lgbm-inference-v43.ipynb)
+  - Inference, modify pseudo labeling func: lower, upper, change param 3→2.1
+  - CV:0.032565, LB: 0.05682 (Debug = True)
+  - [log](log/log.v43.log)
   
