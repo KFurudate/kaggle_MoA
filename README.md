@@ -440,3 +440,15 @@ Both genes and cell viability measures are based on the same cell lines.
   - Remove Kolmogorov-Smirnov test and VarianceThreshold for inference, Threshold = np.quantile(y_prob, q=0.99)
   - CV:0.02704226, LB: (Debug = True)
   - [log](log/log.v41.log)
+  
+ - [20201103-moa-lgbm-v40.ipynb](notebooks/20201103-moa-lgbm-v40.ipynb)
+  - fix pseudo labeling func, select_importance_cols(feature_importance_df, num=30)
+  - CV:0.020234, LB: (Debug = True)
+  - [log](log/log.v40.2.log)
+  - [importance_cols_df.v40.2.csv](/data/)
+  - [feature_importance_df.v40.2.csv](/data/)
+  
+  ![all_feature_importance_v40 2](https://user-images.githubusercontent.com/50528980/98457504-9d49f400-214d-11eb-9c2b-c8fb26194f30.png)
+  
+  
+  
