@@ -428,3 +428,9 @@ Both genes and cell viability measures are based on the same cell lines.
   - [feature_importance_df.v40.csv](/data/)
   
   ![all_feature_importance_v40](https://user-images.githubusercontent.com/50528980/98457315-82768000-214b-11eb-9881-44ab5ee46100.png)
+  
+- [20201105-moa-lgbm-v41.ipynb](notebooks/20201105-moa-lgbm-v41.ipynb)
+  - Feature engineering based on Feature importance with v39 notebook
+  - CV:0.0150337, LB:0.68323 (Debug = True)
+  - [log](log/log.v40.log)
+
