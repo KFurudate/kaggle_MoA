@@ -434,3 +434,9 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.0150337, LB:0.68323 (Debug = True)
   - [log](log/log.v40.log)
 
+## 20201106
+- [20201106-moa-lgbm-inference-v42-1.ipynb](notebooks/20201106-moa-lgbm-inference-v42-1.ipynb)
+  - Feature engineering based on Feature importance with v40 notebook
+  - Remove Kolmogorov-Smirnov test and VarianceThreshold for inference, Threshold = np.quantile(y_prob, q=0.99)
+  - CV:0.02704226, LB: (Debug = True)
+  - [log](log/log.v41.log)
