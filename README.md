@@ -418,3 +418,13 @@ Both genes and cell viability measures are based on the same cell lines.
   - [feature_importance_df.v39.csv](/data/)
   
   ![all_feature_importance_v39](https://user-images.githubusercontent.com/50528980/98295089-9cab3500-1f76-11eb-8716-b8632cd81369.png)
+
+## 20201105
+- [20201103-moa-lgbm-v40.ipynb](notebooks/20201103-moa-lgbm-v40.ipynb)
+  - fix pseudo labeling func, select_importance_cols(feature_importance_df, num=30)
+  - CV:0.0201289, LB: (Debug = True)
+  - [log](log/log.v40.log)
+  - [importance_cols_df.v40.csv](/data/)
+  - [feature_importance_df.v40.csv](/data/)
+  
+  ![all_feature_importance_v40](https://user-images.githubusercontent.com/50528980/98457315-82768000-214b-11eb-9881-44ab5ee46100.png)
