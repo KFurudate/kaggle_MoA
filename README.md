@@ -14,6 +14,12 @@ cell viability means that cell lines that have each been labelled with a unique 
 
 Both genes and cell viability measures are based on the same cell lines.
 
+
+### policy
+・ Use features specific to each target
+・ Pseudo label is performed with reference to the target distribution of Train data (some are not randomly divided, so I want to predict this well and rank up )
+
+
 ## 20201008
 - [download benchmark notebooks](/kaggle_notebooks/)
 
