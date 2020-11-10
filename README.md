@@ -16,9 +16,8 @@ Both genes and cell viability measures are based on the same cell lines.
 
 
 ### Policy
-  - Use features specific to each target
-  - Pseudo label is performed with reference to the target distribution of Train data (some are not randomly divided, so I want to predict this well and rank up )
-
+  - Use specific features to each target variable to train and inference.
+  - Pseudo label is performed with reference to the target variable distribution in train data (some may not be randomly divided, so I hope to predict this well and rank up!).
 
 ## 20201008
 - [download benchmark notebooks](/kaggle_notebooks/)
