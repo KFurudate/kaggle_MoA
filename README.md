@@ -483,5 +483,13 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![all_feature_importance_v46](https://user-images.githubusercontent.com/50528980/98615621-b45d2300-22c0-11eb-9f23-9a59b410dab0.png)
 
+## 20201109
+- [20201109_MoA_lgbm.v48.inf](notebooks/20201109_MoA_lgbm.v48.inf)
+  - inference used v46, DEBUG=False, modify Feature_Engineering func
+  - CV:0.02425838, LB:  (DEBUG=False)
+  - [log](log/log.v48.log)
+  
+  
+
 
 
