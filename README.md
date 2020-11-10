@@ -474,3 +474,15 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.0248876, LB: 0.05574 (Debug = True)
   - [log](log/log.v45.log)
 
+## 20201108
+- [20201107-moa-lgbm-v46-sel.ipynb](notebooks/20201107-moa-lgbm-v46-sel.ipynb)
+  - Select, Add 'g_d_g', 'c_d_c', 'g_df_g', 'c_df_c', 'd_g_df_g', 'd_c_df_c' to the kind_list, VarianceThreshold(0.91) 
+  - CV:0.020792, LB:  (Debug = True)
+  - [log](log/log.v46.log)
+  - [importance_cols_df.v46.csv](/data/)
+  - [feature_importance_df.v46.csv](/data/)
+  
+  ![all_feature_importance_v46](https://user-images.githubusercontent.com/50528980/98615621-b45d2300-22c0-11eb-9f23-9a59b410dab0.png)
+
+
+
