@@ -489,6 +489,12 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.02425838, LB:  (DEBUG=False)
   - [log](log/log.v48.log)
   
+# 20201110
+- [20201109-moa-lgbm-v49-inf.ipynb](notebooks/20201109-moa-lgbm-v49-inf.ipynb)
+  - inference used v46, DEBUG=False, create_features(_X_data, selected_cols, func="mean")
+  - CV:0.02425, LB:  (DEBUG=False)
+  - [log](log/log.v49.log)
+  
   
 
 
