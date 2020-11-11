@@ -476,7 +476,7 @@ Both genes and cell viability measures are based on the same cell lines.
 ## 20201108
 - [20201107-moa-lgbm-v46-sel.ipynb](notebooks/20201107-moa-lgbm-v46-sel.ipynb)
   - Select, Add 'g_d_g', 'c_d_c', 'g_df_g', 'c_df_c', 'd_g_df_g', 'd_c_df_c' to the kind_list, VarianceThreshold(0.91) 
-  - CV:0.020792, LB:  (Debug = True)
+  - CV:0.020792, LB: (Debug = True)
   - [log](log/log.v46.log)
   - [importance_cols_df.v46.csv](/data/)
   - [feature_importance_df.v46.csv](/data/)
@@ -486,13 +486,13 @@ Both genes and cell viability measures are based on the same cell lines.
 ## 20201109
 - [20201109-moa-lgbm-v48-inf.ipynb](notebooks/20201109-moa-lgbm-v48-inf.ipynb)
   - inference used v46, DEBUG=False, modify Feature_Engineering func
-  - CV:0.02425838, LB:  (DEBUG=False)
+  - CV:0.02425838, LB:Notebook Timeout  (DEBUG=False)
   - [log](log/log.v48.log)
   
 # 20201110
 - [20201109-moa-lgbm-v49-inf.ipynb](notebooks/20201109-moa-lgbm-v49-inf.ipynb)
   - inference used v46, DEBUG=False, create_features(_X_data, selected_cols, func="mean")
-  - CV:0.02425, LB:  (DEBUG=False)
+  - CV:0.02425, LB:Notebook Timeout (DEBUG=False)
   - [log](log/log.v49.log)
   
   
