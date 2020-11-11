@@ -504,9 +504,15 @@ Both genes and cell viability measures are based on the same cell lines.
   - [feature_importance_df.v50.csv](/data/)
   
   ![all_feature_importance_v50](https://user-images.githubusercontent.com/50528980/98832760-d19a0a80-2402-11eb-86fc-3aa7bb1663bc.png)
-
   
+- [20201110-moa-lgbm-v51-sel.ipynb](notebooks/20201110-moa-lgbm-v51-sel.ipynb)
+  - Select, QuantileTransformer(n_quantiles=defalt), VarianceThreshold(0.9)  
+  - CV:0.020668, LB: (Debug = True)
+  - [log](log/log.v51.log)
+  - [importance_cols_df.v51.csv](/data/)
+  - [feature_importance_df.v51.csv](/data/)
   
+  ![all_feature_importance_v51](https://user-images.githubusercontent.com/50528980/98835200-bda3d800-2405-11eb-9056-1fb1517485fe.png)
 
 
-
+ 
