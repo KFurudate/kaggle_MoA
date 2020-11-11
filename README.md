@@ -516,6 +516,6 @@ Both genes and cell viability measures are based on the same cell lines.
 
 - [20201110-moa-lgbm-v52-inf.ipynb](notebooks/20201110-moa-lgbm-v52-inf.ipynb)
   - inference used v46, adjust params in pseudo_labeling func
-  - CV:0.024201, LB:Notebook Timeout (DEBUG=False)
+  - CV:0.024201, LB:0.06431 (DEBUG=False)
   - [log](log/log.v52.log)
  
