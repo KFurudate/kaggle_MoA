@@ -15,7 +15,7 @@ cell viability means that cell lines that have each been labelled with a unique 
 Both genes and cell viability measures are based on the same cell lines.
 
 
-### Policy
+### Main idea
   - Use specific features to each target variable to train and inference.
   - Pseudo label is performed with reference to the target variable distribution in train data (some may not be randomly divided, so I hope to predict this well and rank up!).
 
