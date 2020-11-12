@@ -524,3 +524,12 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.0232771, LB: (DEBUG=False)
   - [log](log/log.v54.log)
  
+ - [20201111-moa-lgbm-v53-sel.ipynb](notebooks/20201111-moa-lgbm-v53-sel.ipynb)
+  - Select, feature engining→VarianceThreshold(0.98), select_importance_cols(num=200)
+  - CV:0.01995, LB: (Debug = True)
+  - [log](log/log.v53.log)
+  - [importance_cols_df.v53.csv](/data/)
+  - [feature_importance_df.v53.csv](/data/)
+  
+  ![all_feature_importance_v53](https://user-images.githubusercontent.com/50528980/98951768-45e6b380-24c0-11eb-905c-0b6511141bb8.png)
+
