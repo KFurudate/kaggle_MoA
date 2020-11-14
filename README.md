@@ -537,3 +537,8 @@ Both genes and cell viability measures are based on the same cell lines.
   - inference used v51, Not using create_cluster func
   - CV:0.02126, LB: (DEBUG=False)
   - [log](log/log.v55.log)
+
+- [20201112-moa-lgbm-v58-inf.ipynb](notebooks/20201112-moa-lgbm-v58-inf.ipynb)
+  -  inference used v53, 'lambda_l2':3
+  - CV:0.02191, LB:0.03982 (DEBUG=False)
+  - [log](log/log.v58.log)
