@@ -539,6 +539,21 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v55.log)
 
 - [20201112-moa-lgbm-v58-inf.ipynb](notebooks/20201112-moa-lgbm-v58-inf.ipynb)
-  -  inference used v53, 'lambda_l2':3
+  - inference used v53, 'lambda_l2':3
   - CV:0.02191, LB:0.03982 (DEBUG=False)
   - [log](log/log.v58.log)
+  
+- [20201113-moa-lgbm-v59-inf.ipynb](notebooks/20201113-moa-lgbm-v59-inf.ipynbb)
+  - inference used v53, 'lambda_l2':15
+  - CV:0.02301, LB: (DEBUG=False)
+  - [log](log/log.v59.log)
+  
+- [20201113-moa-lgbm-v60-inf.ipynb](notebooks/20201113-moa-lgbm-v60-inf.ipynb)
+  - inference used v53, 'lambda_l2':0.1,'bagging_fraction': 0.7, 'bagging_freq': 1, 'learning_rate': 0.03,
+  - CV:0.020481, LB:0.04024 (DEBUG=False)
+  - [log](log/log.v60.log)
+  
+- [20201113-moa-lgbm-v61-inf.ipynb](notebooks/20201113-moa-lgbm-v61-inf.ipynb)
+  - inference used v53, 'lambda_l2':3,'bagging_fraction': 0.7, 'bagging_freq': 1, 'learning_rate': 0.03,
+  - CV:0.02148, LB: (DEBUG=False)
+  - [log](log/log.v61.log)
