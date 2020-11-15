@@ -559,3 +559,8 @@ Both genes and cell viability measures are based on the same cell lines.
   - inference used v53, 'lambda_l2':3,'bagging_fraction': 0.7, 'bagging_freq': 1, 'learning_rate': 0.03,
   - CV:0.02148, LB: (DEBUG=False)
   - [log](log/log.v61.log)
+  
+<img width="732" alt="Screen Shot 2020-11-14 at 18 57 32" src="https://user-images.githubusercontent.com/50528980/99160294-6161e200-26ab-11eb-8107-b66c6d95ec52.png">
+
+[Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](/Related papers/)
+
