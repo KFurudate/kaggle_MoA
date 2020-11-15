@@ -562,5 +562,5 @@ Both genes and cell viability measures are based on the same cell lines.
   
 <img width="732" alt="Screen Shot 2020-11-14 at 18 57 32" src="https://user-images.githubusercontent.com/50528980/99160294-6161e200-26ab-11eb-8107-b66c6d95ec52.png">
 
-[Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](kaggle_MoA/Related papers/)
+[Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](/Related papers)
 
