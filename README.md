@@ -564,3 +564,7 @@ Both genes and cell viability measures are based on the same cell lines.
 
 [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://github.com/KFurudate/kaggle_MoA/blob/main/Related%20papers/Model%20Evaluation%2C%20Model%20Selection%2C%20and%20Algorithm%20Selection%20in%20Machine%20Learning.pdf)
 
+- [20201114-moa-lgbm-v62-inf.ipynb](notebooks/20201114-moa-lgbm-v62-inf.ipynb)
+  - inference used v53, self-Stacking prediction values, Threshold += 0.05, 'learning_rate': 0.05, 'lambda_l2':3
+  - CV:0.0023, LB: 0.14471 (DEBUG=False)
+  - [log](log/log.v62.log)
