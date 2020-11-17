@@ -576,6 +576,6 @@ Both genes and cell viability measures are based on the same cell lines.
   
 - [20201115_MoA_lgbm.v64.inf.ipynb](notebooks/20201115_MoA_lgbm.v64.inf.ipynb)
   - inference used v53, if iter_ == max_iter: X_test["pred_feat"] = y_prob.copy()
-  - CV:0.00257, LB: 0.1050) (DEBUG=False)
+  - CV:0.00227, LB: 0.1050) (DEBUG=False)
   - [log](log/log.v64.log)
   
