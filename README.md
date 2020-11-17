@@ -568,3 +568,9 @@ Both genes and cell viability measures are based on the same cell lines.
   - inference used v53, self-Stacking prediction values, Threshold += 0.05, 'learning_rate': 0.05, 'lambda_l2':3
   - CV:0.0023, LB: 0.14471 (DEBUG=False)
   - [log](log/log.v62.log)
+
+- [20201114-moa-lgbm-v63-inf.ipynb](notebooks/20201114-moa-lgbm-v63-inf.ipynb)
+  - inference used v53, 'lambda_l2':15,
+  - CV:0.00257, LB: 0.1458) (DEBUG=False)
+  - [log](log/log.v63.log)
+  
