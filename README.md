@@ -613,7 +613,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.020943, LB: 0.04068 (DEBUG=False)
   - [log](log/log.v69.log)
 
-- [20201117_MoA_lgbm.v70.inf.ipynb](notebooks/20201117_MoA_lgbm.v70.inf.ipynb)
+- [20201117-moa-lgbm-v70-inf.ipynb](notebooks/20201117-moa-lgbm-v70-inf.ipynbb)
   - inference used v67, adjust prediction
   - CV:0.02094, LB: 0.03969 (DEBUG=False)
   - [log](log/log.v70.log)
