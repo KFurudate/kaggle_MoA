@@ -608,11 +608,23 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v67.log)
   
 ## 20201117
-- [0201117-moa-lgbm-v69-inf.ipynb](notebooks/0201117-moa-lgbm-v69-inf.ipynbb)
+- [20201117-moa-lgbm-v69-inf.ipynb](notebooks/20201117-moa-lgbm-v69-inf.ipynbb)
   - inference used v67, if _score > 0.02: np.clip
   - CV:0.020943, LB: 0.04068 (DEBUG=False)
   - [log](log/log.v69.log)
-  
+
+- [20201117_MoA_lgbm.v70.inf.ipynb](notebooks/20201117_MoA_lgbm.v70.inf.ipynbb)
+  - inference used v67, adjust prediction
+  - CV:0.02094, LB: 0.03969 (DEBUG=False)
+  - [log](log/log.v70.log)
+
+- [20201117_MoA_lgbm.v71.inf.ipynb](notebooks/20201117_MoA_lgbm.v71.inf.ipynbb)
+  - inference used v67, (Threshold+0.03) >= 0.96
+  - CV:0.02094, LB: 0.03969 (DEBUG=False)
+  - [log](log/log.v71.log)
+
+## 20201118
+
 ### I strongly agree with him. Multi predicts by capturing the relationship between co-occurrence and exclusion, not the presence or absence of a target. On the other hand, single predicts with or without a target. Given that the distribution of targets is probably different in training and private test datasets, so we need two process of single predicts and multi corrects.
 
   <img width="752" alt="Screen Shot 2020-11-18 at 10 57 53" src="https://user-images.githubusercontent.com/50528980/99561832-0242ec80-298d-11eb-8618-5eed0b414516.png">
