@@ -626,7 +626,7 @@ Both genes and cell viability measures are based on the same cell lines.
 ## 20201118
 
 ### I strongly agree with him. Multi predicts by capturing the relationship between co-occurrence and exclusion, not the presence or absence of a target. On the other hand, single predicts with or without a target. Given that the distribution of targets is probably different in training and private test datasets, so we need two process of single predicts and multi corrects.
-    - reference: https://www.kaggle.com/c/lish-moa/discussion/197855
+   - reference: https://www.kaggle.com/c/lish-moa/discussion/197855
 
   <img width="752" alt="Screen Shot 2020-11-18 at 10 57 53" src="https://user-images.githubusercontent.com/50528980/99561832-0242ec80-298d-11eb-8618-5eed0b414516.png">
   
