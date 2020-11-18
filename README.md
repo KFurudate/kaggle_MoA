@@ -262,7 +262,6 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![feature_importance_v20](https://user-images.githubusercontent.com/50528980/97493438-f2f2f500-1932-11eb-82ca-8a42f4305395.png)
   
-
 - CV improves, but LBs are bad. I think this is due to the inclusion of low confidence pseudo labels in the TEST data.
   - reference: https://www.kaggle.com/c/lish-moa/discussion/191135
   <img width="652" alt="Screen Shot 2020-10-29 at 13 57 25" src="https://user-images.githubusercontent.com/50528980/97619961-e2a05000-19ee-11eb-94c3-92c0ce5b9e84.png">
@@ -274,7 +273,6 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v21.log)
   
   ![feature_importance_v21](https://user-images.githubusercontent.com/50528980/97635109-d1fad480-1a04-11eb-880d-59b9e87e461d.png)
-
 
 - [20201029-moa-lgbm-benchmark-v22.ipynb](notebooks/20201029-moa-lgbm-benchmark-v22.ipynb)
   - minor modifications
@@ -339,7 +337,7 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![feature_importance_v31](https://user-images.githubusercontent.com/50528980/97779960-96205600-1b4f-11eb-822c-61c3ed1af0e4.png)
   
-- Thanks for this discussion, assuming there are at least six groups of drugs, we can know what some of the drugs. But, how can we apply this to our learning?
+### Thanks for this discussion, assuming there are at least six groups of drugs, we can know what some of the drugs. But, how can we apply this to our learning?
 
   - reference: https://www.kaggle.com/c/lish-moa/discussion/194190 
 
@@ -347,13 +345,13 @@ Both genes and cell viability measures are based on the same cell lines.
   
   <img width="657" alt="Screen Shot 2020-10-31 at 7 34 07" src="https://user-images.githubusercontent.com/50528980/97779456-31173100-1b4c-11eb-8ced-46e962aff0b6.png">
   
-- I want to know what is the distribution of targets in the test data. I hope this is the same as the train. But if it's really randomly split, I believe that the target distribution will be about the same for train and test.
+### I want to know what is the distribution of targets in the test data. I hope this is the same as the train. But if it's really randomly split, I believe that the target distribution will be about the same for train and test.
 
   - reference: https://www.kaggle.com/c/lish-moa/discussion/193907
   
   <img width="618" alt="Screen Shot 2020-10-31 at 13 04 18" src="https://user-images.githubusercontent.com/50528980/97786581-82d6b000-1b7a-11eb-864d-092a0bdbd4ea.png">
 
-- I'll try Runk Gauss scaling
+### I'll try Runk Gauss scaling
   - reference: https://www.kaggle.com/c/lish-moa/discussion/193878
 
   <img width="646" alt="Screen Shot 2020-10-31 at 17 51 25" src="https://user-images.githubusercontent.com/50528980/97791572-c85aa380-1ba1-11eb-96f6-ba8fd1c613bf.png">
@@ -402,14 +400,14 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![all_feature_importance_v37](https://user-images.githubusercontent.com/50528980/98200142-91162a80-1ef2-11eb-8714-7b34f413c3cd.png)
 
-- New data file available: train_drug.csv
+### New data file available: train_drug.csv
   - Drug and MultiLabel Stratification Code
   - reference: https://www.kaggle.com/c/lish-moa/discussion/195195
   - reference: https://www.kaggle.com/c/lish-moa/discussion/195170
   
   <img width="324" alt="Screen Shot 2020-11-03 at 20 30 42" src="https://user-images.githubusercontent.com/50528980/98200300-f0743a80-1ef2-11eb-885e-5ef2357c034c.png">
   
-- Interesting comment by host
+### Interesting comment by host
   - reference: https://www.kaggle.com/c/lish-moa/discussion/195170
   
   <img width="649" alt="Screen Shot 2020-11-03 at 22 42 22" src="https://user-images.githubusercontent.com/50528980/98200661-b0fa1e00-1ef3-11eb-8504-e033ca32f3dc.png">
@@ -457,7 +455,7 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![all_feature_importance_v40 2](https://user-images.githubusercontent.com/50528980/98457504-9d49f400-214d-11eb-9c2b-c8fb26194f30.png)
   
-# I decided to use two notebooks. First, a select notebook that picks up important features for each target. Second, the inference notebook does train and inference with selected important features.
+### I decided to use two notebooks. First, a select notebook that picks up important features for each target. Second, the inference notebook does train and inference with selected important features.
 
 - [20201106-moa-lgbm-inference-v43.ipynb](notebooks/20201106-moa-lgbm-inference-v43.ipynb)
   - Inference, modify pseudo labeling func: lower, upper, change param 3→2.1
@@ -560,7 +558,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.02148, LB: (DEBUG=False)
   - [log](log/log.v61.log)
   
-# very usefull.
+### very usefull.
 <img width="732" alt="Screen Shot 2020-11-14 at 18 57 32" src="https://user-images.githubusercontent.com/50528980/99160294-6161e200-26ab-11eb-8107-b66c6d95ec52.png">
 
 [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://github.com/KFurudate/kaggle_MoA/blob/main/Related%20papers/Model%20Evaluation%2C%20Model%20Selection%2C%20and%20Algorithm%20Selection%20in%20Machine%20Learning.pdf)
@@ -581,7 +579,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v64.log)
   
   
-# I strongly agree with him. Multi predicts by capturing the relationship between co-occurrence and exclusion, not the presence or absence of a target. On the other hand, single predicts with or without a target. Given that the distribution of targets is probably different in training and private test datasets, so we need two process of single predicts and multi corrects.
+### I strongly agree with him. Multi predicts by capturing the relationship between co-occurrence and exclusion, not the presence or absence of a target. On the other hand, single predicts with or without a target. Given that the distribution of targets is probably different in training and private test datasets, so we need two process of single predicts and multi corrects.
 
   <img width="752" alt="Screen Shot 2020-11-18 at 10 57 53" src="https://user-images.githubusercontent.com/50528980/99561832-0242ec80-298d-11eb-8618-5eed0b414516.png">
   
