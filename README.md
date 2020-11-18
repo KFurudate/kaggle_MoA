@@ -608,17 +608,17 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v67.log)
   
 ## 20201117
-- [20201117-moa-lgbm-v69-inf.ipynb](notebooks/20201117-moa-lgbm-v69-inf.ipynbb)
+- [20201117-moa-lgbm-v69-inf.ipynb](notebooks/20201117-moa-lgbm-v69-inf.ipynb)
   - inference used v67, if _score > 0.02: np.clip
   - CV:0.020943, LB: 0.04068 (DEBUG=False)
   - [log](log/log.v69.log)
 
-- [20201117_MoA_lgbm.v70.inf.ipynb](notebooks/20201117_MoA_lgbm.v70.inf.ipynbb)
+- [20201117_MoA_lgbm.v70.inf.ipynb](notebooks/20201117_MoA_lgbm.v70.inf.ipynb)
   - inference used v67, adjust prediction
   - CV:0.02094, LB: 0.03969 (DEBUG=False)
   - [log](log/log.v70.log)
 
-- [20201117_MoA_lgbm.v71.inf.ipynb](notebooks/20201117_MoA_lgbm.v71.inf.ipynbb)
+- [20201117_MoA_lgbm.v71.inf.ipynb](notebooks/20201117-moa-lgbm-v71-inf.ipynb)
   - inference used v67, (Threshold+0.03) >= 0.96
   - CV:0.02094, LB: 0.03969 (DEBUG=False)
   - [log](log/log.v71.log)
