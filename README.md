@@ -560,6 +560,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.02148, LB: (DEBUG=False)
   - [log](log/log.v61.log)
   
+# very usefull.
 <img width="732" alt="Screen Shot 2020-11-14 at 18 57 32" src="https://user-images.githubusercontent.com/50528980/99160294-6161e200-26ab-11eb-8107-b66c6d95ec52.png">
 
 [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://github.com/KFurudate/kaggle_MoA/blob/main/Related%20papers/Model%20Evaluation%2C%20Model%20Selection%2C%20and%20Algorithm%20Selection%20in%20Machine%20Learning.pdf)
@@ -580,7 +581,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v64.log)
   
   
-  - I strongly agree with him. Multi predicts by capturing the relationship between co-occurrence and exclusion, not the presence or absence of a target. On the other hand, single predicts with or without a target. Given that the distribution of targets is probably different in training and private test datasets, so we need two process of single predicts and multi corrects.
+# I strongly agree with him. Multi predicts by capturing the relationship between co-occurrence and exclusion, not the presence or absence of a target. On the other hand, single predicts with or without a target. Given that the distribution of targets is probably different in training and private test datasets, so we need two process of single predicts and multi corrects.
+
   <img width="752" alt="Screen Shot 2020-11-18 at 10 57 53" src="https://user-images.githubusercontent.com/50528980/99561832-0242ec80-298d-11eb-8618-5eed0b414516.png">
-  
   
