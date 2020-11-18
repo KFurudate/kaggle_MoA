@@ -527,7 +527,8 @@ Both genes and cell viability measures are based on the same cell lines.
   - [feature_importance_df.v53.csv](/data/)
   
   ![all_feature_importance_v53](https://user-images.githubusercontent.com/50528980/98951768-45e6b380-24c0-11eb-905c-0b6511141bb8.png)
-  
+ 
+## 20201112
 - [20201111-moa-lgbm-v54-inf.ipynb](notebooks/20201111-moa-lgbm-v54-inf.ipynb)
   - inference used v46, adjust params in pseudo_labeling func
   - CV:0.0232771, LB:0.06414 (DEBUG=False)
@@ -542,7 +543,8 @@ Both genes and cell viability measures are based on the same cell lines.
   - inference used v53, 'lambda_l2':3
   - CV:0.02191, LB:0.03982 (DEBUG=False)
   - [log](log/log.v58.log)
-  
+
+## 20201113
 - [20201113-moa-lgbm-v59-inf.ipynb](notebooks/20201113-moa-lgbm-v59-inf.ipynbb)
   - inference used v53, 'lambda_l2':15
   - CV:0.02301, LB: (DEBUG=False)
@@ -563,6 +565,7 @@ Both genes and cell viability measures are based on the same cell lines.
 
 [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://github.com/KFurudate/kaggle_MoA/blob/main/Related%20papers/Model%20Evaluation%2C%20Model%20Selection%2C%20and%20Algorithm%20Selection%20in%20Machine%20Learning.pdf)
 
+## 20201114
 - [20201114-moa-lgbm-v62-inf.ipynb](notebooks/20201114-moa-lgbm-v62-inf.ipynb)
   - inference used v53, self-Stacking prediction values, Threshold += 0.05, 'learning_rate': 0.05, 'lambda_l2':3
   - CV:0.0023, LB: 0.14471 (DEBUG=False)
@@ -572,12 +575,43 @@ Both genes and cell viability measures are based on the same cell lines.
   - inference used v53, 'lambda_l2':15,
   - CV:0.00257, LB: 0.1458) (DEBUG=False)
   - [log](log/log.v63.log)
-  
+
+## 20201115
 - [20201115_MoA_lgbm.v64.inf.ipynb](notebooks/20201115_MoA_lgbm.v64.inf.ipynb)
   - inference used v53, if iter_ == max_iter: X_test["pred_feat"] = y_prob.copy()
-  - CV:0.00227, LB: 0.1050) (DEBUG=False)
+  - CV:0.00227, LB: 0.1050 (DEBUG=False)
   - [log](log/log.v64.log)
   
+- [20201115-moa-lgbm-v65-inf.ipynb](notebooks/20201115-moa-lgbm-v65-inf.ipynb)
+  - inference used v53, Apply RankGauss(df) to "pred_feat"
+  - CV:0.00219, LB: 0.50053 (DEBUG=False)
+  - [log](log/log.v65.log)
+
+## 20201116
+- [20201116-moa-lgbm-v66-inf.ipynb](notebooks/20201116-moa-lgbm-v66-inf.ipynb)
+  - inference used v53, Apply clipping & RankGauss(df) to "pred_feat"
+  - CV:0.00219, LB: 0.51163 (DEBUG=False)
+  - [log](log/log.v66.log)
+  
+- [20201116-moa-lgbm-v67-sel.ipynb](notebooks/20201116-moa-lgbm-v67-sel.ipynb) 
+  - Select, VarianceThreshold(0.98), select_importance_cols(num=300)
+  - CV:0.0197582, LB: (Debug = True)
+  - [log](log/log.v67.log)
+  - [importance_cols_df.v67.csv](/data/)
+  - [feature_importance_df.v67.csv](/data/)
+  
+  ![all_feature_importance_v67](https://user-images.githubusercontent.com/50528980/99589558-c40bf400-29b1-11eb-8886-e327749737bf.png)
+  
+- [20201116-moa-lgbm-v68-inf.ipynb](notebooks/20201116-moa-lgbm-v68-inf.ipynb)
+  - inference used v67, np.clip
+  - CV:0.021389, LB: 0.04027 (DEBUG=False)
+  - [log](log/log.v67.log)
+  
+## 20201117
+- [0201117-moa-lgbm-v69-inf.ipynb](notebooks/0201117-moa-lgbm-v69-inf.ipynbb)
+  - inference used v67, if _score > 0.02: np.clip
+  - CV:0.020943, LB: 0.04068 (DEBUG=False)
+  - [log](log/log.v69.log)
   
 ### I strongly agree with him. Multi predicts by capturing the relationship between co-occurrence and exclusion, not the presence or absence of a target. On the other hand, single predicts with or without a target. Given that the distribution of targets is probably different in training and private test datasets, so we need two process of single predicts and multi corrects.
 
