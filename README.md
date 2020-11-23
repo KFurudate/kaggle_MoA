@@ -624,6 +624,10 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v71.log)
 
 ## 20201118
+- [20201117-moa-lgbm-v72-inf.ipynb](notebooks/20201117-moa-lgbm-v72-inf.ipynb)
+  - inference used v67, remove "if (p_label_rate*1.5) < target_rate" from the Adj_threshold func
+  - CV:0.020943, LB: 0.04131 (DEBUG=False)
+  - [log](log/log.v72.log)
 
 ### I strongly agree with him. Multi predicts by capturing the relationship between co-occurrence and exclusion, not the presence or absence of a target. On the other hand, single predicts with or without a target. Given that the distribution of targets is probably different in training and private test datasets, so we need two process of single predicts and multi corrects.
    - reference: https://www.kaggle.com/c/lish-moa/discussion/197855
@@ -633,6 +637,12 @@ Both genes and cell viability measures are based on the same cell lines.
    - reference: https://www.kaggle.com/c/lish-moa/discussion/197491
    
   <img width="773" alt="Screen Shot 2020-11-22 at 22 47 24" src="https://user-images.githubusercontent.com/50528980/99930182-c190fd80-2d15-11eb-8c9f-41cf3a2b78ba.png">
+  
+## 20201119
+- [20201118-moa-lgbm-v73-inf.ipynb](notebooks/20201118-moa-lgbm-v73-inf.ipynb)
+  - inference used v67, exclusive_cols→Under_Sampling func
+  - CV:0.017074, LB: 0.03214 (DEBUG=False)
+  - [log](log/log.v73.log)
   
 
 
