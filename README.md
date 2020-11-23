@@ -644,5 +644,17 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.017074, LB: 0.03214 (DEBUG=False)
   - [log](log/log.v73.log)
   
+## 20201120
+### Calculated the relationship between co-occurrence and exclusion with R. I posted it in the Kaggle discussion but deleted it after a day with no response from anyone.
+  - [20201118_train_targets_scored.matrix_odds_results.csv](/data/)
+
+  <img width="755" alt="Screen Shot 2020-11-20 at 18 23 36" src="https://user-images.githubusercontent.com/50528980/99930717-af17c380-2d17-11eb-9430-b5225c8161ed.png">
+  <img width="1680" alt="Screen Shot 2020-11-22 at 23 12 14" src="https://user-images.githubusercontent.com/50528980/99930858-382efa80-2d18-11eb-9d08-e02e60e30562.png">
+
+## 20201121
+- [20201121-moa-lgbm-v74-inf.ipynb](notebooks/20201121-moa-lgbm-v74-inf.ipynb)
+  - inference used v67, feature engining for unpredictable_cols(create_features func 30)
+  - CV:0.017074, LB: 0.03224 (DEBUG=False)
+  - [log](log/log.v74.log)
 
 
