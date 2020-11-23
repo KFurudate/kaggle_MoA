@@ -645,7 +645,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - [log](log/log.v73.log)
   
 ## 20201120
-### Calculated the relationship between co-occurrence and exclusion with R. I posted it in the Kaggle discussion but deleted it after a day with no response from anyone.
+### [Calculated the relationship between co-occurrence and exclusion with R. I posted it in the Kaggle discussion but deleted it after a day with no response from anyone](https://github.com/KFurudate/kaggle_MoA/blob/main/data/20201118_train_targets_scored.logodds.pdf)
   - [20201118_train_targets_scored.matrix_odds_results.csv](/data/)
 
   <img width="755" alt="Screen Shot 2020-11-20 at 18 23 36" src="https://user-images.githubusercontent.com/50528980/99930717-af17c380-2d17-11eb-9430-b5225c8161ed.png">
