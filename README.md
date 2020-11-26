@@ -676,4 +676,16 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.01710, LB: Notebook Timeout (DEBUG=False)
   - [log](log/log.v77.log)
 
+## 20201124
+- [20201124-moa-lgbm-v78-inf.ipynb](notebooks/20201124-moa-lgbm-v78-inf.ipynb)
+  - inference used v67,adjust lgm params; 'lambda_l2': 300, 'bagging_fraction': 0.7,'colsample_bytree': 0.05,'subsample': 0.7,'reg_lambda': 100,
+  - CV:0.01763, LB: 0.03170 Timeout (DEBUG=False)
+  - [log](log/log.v78.log)
+
+- [20201124-moa-lgbm-v79-inf.ipynb](notebooks/20201124-moa-lgbm-v79-inf.ipynb)
+  - inference used v67, adjust lgbm params; 'lambda_l2': 300, 'bagging_fraction': 0.7,'colsample_bytree': 0.04,　'subsample': 0.7,'reg_lambda': 200,
+  - CV:0.01725, LB: 0.03180 Timeout (DEBUG=False)
+  - [log](log/log.v79.log)
+
+
 
