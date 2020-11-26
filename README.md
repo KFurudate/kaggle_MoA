@@ -670,7 +670,8 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.01718, LB: Notebook Timeout (DEBUG=False)
   - [log](log/log.v76.log)
 
-- [20201122-moa-lgbm-v77-inf.ipynb](notebooks/20201122-moa-lgbm-v77-inf.ipynb)
+## 20201123
+- [20201123-moa-lgbm-v77-inf.ipynb](notebooks/20201122-moa-lgbm-v77-inf.ipynb)
   - inference used v67, Add pca to create_features func 
   - CV:0.01710, LB: Notebook Timeout (DEBUG=False)
   - [log](log/log.v77.log)
