@@ -659,4 +659,20 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.017074, LB: 0.03224 (DEBUG=False)
   - [log](log/log.v74.log)
 
+## 20201122
+- [20201122-moa-lgbm-v75-inf.ipynb](notebooks/20201122-moa-lgbm-v75-inf.ipynb)
+  - inference used v67, avoid overfit for unpredictable_cols
+  - CV:0.016922, LB: 0.03205 (DEBUG=False)
+  - [log](log/log.v75.log)
+ 
+- [20201122-moa-lgbm-v76-inf.ipynb](notebooks/20201122-moa-lgbm-v76-inf.ipynb)
+  - inference used v67, 'feature_fraction':0.1, 'lambda_l2': 200,
+  - CV:0.01718, LB: Notebook Timeout (DEBUG=False)
+  - [log](log/log.v76.log)
+
+- [20201122-moa-lgbm-v77-inf.ipynb](notebooks/20201122-moa-lgbm-v77-inf.ipynb)
+  - inference used v67, Add pca to create_features func 
+  - CV:0.01710, LB: Notebook Timeout (DEBUG=False)
+  - [log](log/log.v77.log)
+
 
