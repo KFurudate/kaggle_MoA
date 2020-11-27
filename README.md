@@ -686,6 +686,17 @@ Both genes and cell viability measures are based on the same cell lines.
   - inference used v67, adjust lgbm params; 'lambda_l2': 300, 'bagging_fraction': 0.7,'colsample_bytree': 0.04,　'subsample': 0.7,'reg_lambda': 200,
   - CV:0.01725, LB: 0.03180 Timeout (DEBUG=False)
   - [log](log/log.v79.log)
+ 
+## 20201125
+- [20201125-moa-lgbm-v80-inf.ipynb](notebooks/20201125-moa-lgbm-v80-inf.ipynb)
+  - inference used v67, lgm params used v78, N_FOLD = 5
+  - CV:0.01741, LB: 0.03150 Timeout (DEBUG=False)
+  - [log](log/log.v80.log)
+  
+- [20201125-moa-lgbm-v81-inf.ipynb](notebooks/20201125-moa-lgbm-v81-inf.ipynb)
+  - inference used v67, lgm params used v78, N_FOLD = 5&Early_stopping_rounds=29, unpredictable_cols→ N_FOLD = 3 & Early_stopping_rounds=39
+  - CV:0.01747, LB: 0.03161 Timeout (DEBUG=False)
+  - [log](log/log.v81.log)
 
 
 
