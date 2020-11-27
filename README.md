@@ -698,5 +698,13 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.01747, LB: 0.03161 Timeout (DEBUG=False)
   - [log](log/log.v81.log)
 
+- [20201125-moa-lgbm-v82sel.ipynb](notebooks/20201125-moa-lgbm-v82sel.ipynb) 
+  - Select, DEBUG = True, 'feature_fraction':0.007, select_importance_cols(num=500), 
+  - CV:0.023377, LB: (Debug = True)
+  - [log](log/log.v82.log)
+  - [importance_cols_df.v82.csv](/data/)
+  - [feature_importance_df.v82.csv](/data/)
+  
+  ![all_feature_importance_v82](https://user-images.githubusercontent.com/50528980/100404225-813bc300-3026-11eb-971b-8d3cb4163f5f.png)
 
 
