@@ -707,4 +707,9 @@ Both genes and cell viability measures are based on the same cell lines.
   
   ![all_feature_importance_v82](https://user-images.githubusercontent.com/50528980/100404225-813bc300-3026-11eb-971b-8d3cb4163f5f.png)
 
+## 20201126
+- [20201125-moa-lgbm-v83-inf.ipynb](notebooks/20201125-moa-lgbm-v83-inf.ipynb)
+  - inference used v67, lgm params used　v79, odds_gene_df["Log"] < 1.0→0.0
+  - CV:0.017458, LB: (DEBUG=False)
+  - [log](log/log.v83.log)
 
