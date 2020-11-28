@@ -712,7 +712,12 @@ Both genes and cell viability measures are based on the same cell lines.
 
 ## 20201126
 - [20201125-moa-lgbm-v83-inf.ipynb](notebooks/20201125-moa-lgbm-v83-inf.ipynb)
-  - inference used v67, lgm params used　v79, odds_gene_df["Log"] < 1.0→0.0
+  - inference used v67, lgm params used v79, odds_gene_df["Log"] < 1.0→0.0
   - CV:0.017458, LB: (DEBUG=False)
   - [log](log/log.v83.log)
+  
+- [20201125-moa-lgbm-v84-sel.ipynb](notebooks/20201125-moa-lgbm-v84-sel.ipynb)
+  - Select, based on v83, DEBUG = False, 'feature_fraction':0.007, select_importance_cols(num=300),
+  - It did not end within the time limit. I tried it locally with GPU, but when the learning was 65%,  it ran out of memory and stop.
+  
 
