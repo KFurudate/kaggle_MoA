@@ -690,6 +690,10 @@ Both genes and cell viability measures are based on the same cell lines.
   - inference used v67, adjust lgbm params; 'lambda_l2': 300, 'bagging_fraction': 0.7,'colsample_bytree': 0.04,　'subsample': 0.7,'reg_lambda': 200,
   - CV:0.01725, LB: 0.03180 Timeout (DEBUG=False)
   - [log](log/log.v79.log)
+  
+### I hope shake up happens because my notebooks tackle the issue.
+  - reference: https://www.kaggle.com/c/lish-moa/discussion/199484
+  <img width="735" alt="Screen Shot 2020-11-28 at 13 21 41" src="https://user-images.githubusercontent.com/50528980/100524320-c70a9f80-317c-11eb-8636-a755b1a903d3.png">
  
 ## 20201125
 - [20201125-moa-lgbm-v80-inf.ipynb](notebooks/20201125-moa-lgbm-v80-inf.ipynb)
