@@ -15,7 +15,7 @@ cell viability means that cell lines that have each been labelled with a unique 
 Both genes and cell viability measures are based on the same cell lines.
 
 
-### Main idea
+### Main idea of my solution
   - Single target with gradient boosting model to train and inference.
   - No GPU because of runtime limit within only 2 hours(so I use lightgbm).
   - To use 300-500 important features for each target variable.
