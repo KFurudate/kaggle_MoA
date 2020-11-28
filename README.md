@@ -16,9 +16,12 @@ Both genes and cell viability measures are based on the same cell lines.
 
 
 ### Main idea
-  - Single target with lightgbm model (206 times)
-  - Use specific features to each target variable to train and inference.
-  - Pseudo label is performed with reference to the target variable distribution in train data (some may not be randomly divided, so I hope to predict this well and rank up!).
+  - Single target with gradient boosting model to train and inference.
+  - No GPU because of runtime limit within only 2 hours(so I use lightgbm).
+  - To use300-500 important features for each target variable.
+  - To use mutually exclusive target variables as a negative label.
+  - To avoid over fit unpredictable target variables.
+  - Performed pseudo label with reference to the target variable distribution in train data (some may not be randomly divided, so I hope to predict this well and rank up!).
   
   <img width="1355" alt="Screen Shot 2020-11-14 at 22 39 45" src="https://user-images.githubusercontent.com/50528980/99163245-81ed6480-26ca-11eb-8fda-8d1ca170f71e.png">
 
