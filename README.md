@@ -719,5 +719,24 @@ Both genes and cell viability measures are based on the same cell lines.
 - [20201125-moa-lgbm-v84-sel.ipynb](notebooks/20201125-moa-lgbm-v84-sel.ipynb)
   - Select, based on v83, DEBUG = False, 'feature_fraction':0.007, select_importance_cols(num=300),
   - It did not end within the time limit. I tried it locally with GPU, but when the learning was 65%,  it ran out of memory and stop.
-  
 
+- [20201125-moa-lgbm-v85-inf.ipynb](notebooks/20201125-moa-lgbm-v85-inf.ipynb)
+  - inference used v82, based on v83
+  - CV:0.018733, LB:0.03114 (DEBUG=False)
+  - [log](log/log.v85.log)
+
+- [20201126-moa-lgbm-v86-inf.ipynb](notebooks/20201126-moa-lgbm-v86-inf.ipynb)
+  - inference used v82, based on v83
+  - CV:0.01928, LB: Notebook Timeout (DEBUG=False)
+  - [log](log/log.v86.log)
+  
+## 20201127
+- [20201125-moa-lgbm-v87-inf.ipynb](notebooks/20201125-moa-lgbm-v87-inf.ipynb)
+  - inference used v82, based on v85, unpredictable_cols=()
+  - CV:0.0218119, LB: 0.03124(DEBUG=False)
+  - [log](log/log.v87.log)
+
+- [20201125-moa-lgbm-v88-inf.ipynb](notebooks/20201125-moa-lgbm-v88-inf.ipynb)
+  - inference used v82, based on v85,unpredictable_cols based on v87
+  - CV:0.019748, LB: Notebook Timeou (DEBUG=False)
+  - [log](log/log.v88.log)
