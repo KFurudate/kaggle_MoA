@@ -23,7 +23,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - To avoid overfit unpredictable target variables.
   - Performed pseudo label with reference to the target variable distribution in train data (some may not be randomly divided, so I hope to predict this well and rank up!).
  
-  <img width="1356" alt="Screen Shot 2020-11-28 at 11 29 05" src="https://user-images.githubusercontent.com/50528980/100521993-206ad280-316d-11eb-8140-199ed9613e34.png">
+  <img width="1426" alt="Screen Shot 2020-11-28 at 11 53 03" src="https://user-images.githubusercontent.com/50528980/100522679-5eb5c100-3170-11eb-9ac8-70d470886044.png">
  
 
 ## 20201008
