@@ -741,6 +741,6 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.019748, LB: Notebook Timeou (DEBUG=False)
   - [log](log/log.v88.log)
  
-### Combined selected top features by version 67 and version 82 notebooks for better prediction.
+### Combined selected top features based on log loss score by version 67 and version 82 notebooks for better prediction.
 - [importance_cols_df.v67_v82.csv](/data/)
 
