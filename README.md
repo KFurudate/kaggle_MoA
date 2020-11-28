@@ -17,7 +17,7 @@ Both genes and cell viability measures are based on the same cell lines.
 
 ### The main idea of my solution
   - Single target with gradient boosting model to train and inference.
-  - No GPU because of runtime limit within only 2 hours(so I use lightgbm).
+  - No GPU because of runtime limit within only 2 hours. → lightgbm
   - Divided into two stages of notebooks: feature selection and train & inference.
   - To use 300-500 important features for each target variable.
   - Corrected unbalanced data with oversampling (SMOTE) and undersampling with train_drug (newly added data) or mutually exclusive targets variables.
