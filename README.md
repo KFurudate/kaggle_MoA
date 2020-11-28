@@ -22,6 +22,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - To use mutually exclusive target variables as a negative label.
   - To avoid over fit unpredictable target variables.
   - Performed pseudo label with reference to the target variable distribution in train data (some may not be randomly divided, so I hope to predict this well and rank up!).
+  - Corrected unbalanced data with oversampling (SMOTE) and undersampling with train_drug (new data) or exclusive target.
   
   <img width="1356" alt="Screen Shot 2020-11-28 at 11 29 05" src="https://user-images.githubusercontent.com/50528980/100521993-206ad280-316d-11eb-8140-199ed9613e34.png">
  
