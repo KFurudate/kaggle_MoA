@@ -740,3 +740,7 @@ Both genes and cell viability measures are based on the same cell lines.
   - inference used v82, based on v85,unpredictable_cols based on v87
   - CV:0.019748, LB: Notebook Timeou (DEBUG=False)
   - [log](log/log.v88.log)
+ 
+### Combined selected top features by version 67 and version 82 notebooks for better prediction.
+- [importance_cols_df.v67_v82.csv](/data/)
+
