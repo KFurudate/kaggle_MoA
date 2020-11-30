@@ -754,4 +754,43 @@ Both genes and cell viability measures are based on the same cell lines.
 - reference: https://www.kaggle.com/c/lish-moa/discussion/199696 
 <img width="735" alt="Screen Shot 2020-11-28 at 13 05 13" src="https://user-images.githubusercontent.com/50528980/100524057-8578f500-317a-11eb-95c4-cd9025c24e6e.png">
 
+- [20201128-moa-lgbm-v89-inf.ipynb](notebooks/20201128-moa-lgbm-v89-inf.ipynb)
+  - inference used v67 & v82, based on v85, unpredictable_cols=()
+  - CV:0.0155371, LB: 0.03194(DEBUG=False)
+  - [log](log/log.v88.log)
+
+- [20201128-moa-lgbm-v90-inf.ipynb](notebooks/20201128-moa-lgbm-v90-inf.ipynb)
+  - inference used v67&v82, based on v85, unpredictable_cols=(), if _score > 0.02:unpredictable.append(target_col)
+  - CV:0.0155371, LB: 0.03194(DEBUG=False)
+  - [log](log/log.v90.log)
+  
+- [20201128-moa-lgbm-v91-inf.ipynb](notebooks/20201128-moa-lgbm-v91-inf.ipynb)
+  - inference used v67&v82, based on v85, unpredictable_cols based on v89, 'colsample_bytree': 0.05,
+  - CV:0.01353, LB: 0.03161(DEBUG=False)
+  - [log](log/log.v91.log)
+
+- [20201128-moa-lgbm-v92-inf.ipynb](notebooks/20201128-moa-lgbm-v92-inf.ipynb)
+  - inference used v67&v82, based on v85, unpredictable_cols based on v90, 'colsample_bytree': 0.04,
+  - CV:0.01424, LB: 0.03182(DEBUG=False)
+  - [log](log/log.v92.log)
+ 
+- [20201128-moa-lgbm-v93-inf.ipynb](notebooks/20201128-moa-lgbm-v93-inf.ipynb)
+  - inference used v67&v82, based on v85, unpredictable_cols based on v89&v90,
+  - CV:0.0125883, LB: 0.03156(DEBUG=False)
+  - [log](log/log.v93.log)
+
+## 20201129
+- [20201128-moa-lgbm-v94-inf.ipynb](notebooks/20201128-moa-lgbm-v94-inf.ipynb)
+  - inference used v67&v82, based on v93,
+  - CV:0.012560, LB: (DEBUG=False)
+  - [log](log/log.v94.log)
+
+- [20201129-moa-lgbm-v95-inf.ipynb](notebooks/20201129-moa-lgbm-v95-inf.ipynb)
+  - inference used v67&v82, based on v94,
+  - CV:0.0125621, LB: (DEBUG=False)
+  - [log](log/log.v95.log)
+  
+  
+  
+  
 
