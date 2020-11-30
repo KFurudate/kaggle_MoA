@@ -750,7 +750,7 @@ Both genes and cell viability measures are based on the same cell lines.
 - [importance_cols_df.v67_v82.csv](/data/)
 
 ## 20201128
-### From single target model perspective, I think your "Hard Targets" means would be target variables that are likely to over-fitting with created features by you.
+### From single target model perspective, I think his "Hard Targets" means would be target variables that are likely to over-fitting with created features by each other.
 - reference: https://www.kaggle.com/c/lish-moa/discussion/199696 
 <img width="735" alt="Screen Shot 2020-11-28 at 13 05 13" src="https://user-images.githubusercontent.com/50528980/100524057-8578f500-317a-11eb-95c4-cd9025c24e6e.png">
 
@@ -790,7 +790,3 @@ Both genes and cell viability measures are based on the same cell lines.
   - CV:0.0125621, LB: (DEBUG=False)
   - [log](log/log.v95.log)
   
-  
-  
-  
-
