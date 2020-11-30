@@ -136,7 +136,7 @@ Both genes and cell viability measures are based on the same cell lines.
   ![feature_importance_v8](https://user-images.githubusercontent.com/50528980/96465999-422c7d80-11ef-11eb-9dc6-19ff7369dde9.png)
 
 ## 20201020
-### what is the cell viability?
+### What is the cell viability?
   - Cell viability is a measure of the proportion of live, healthy cells within a population. 
   - To measure cell survival following treatment with compounds, such as during a drug screen.
   - reference: https://en.cellsignal.jp/contents/_/synopsis-of-cell-proliferation-metabolic-status-and-cell-death/cell-viability-and-survival
