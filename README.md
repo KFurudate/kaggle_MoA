@@ -105,12 +105,12 @@ Both genes and cell viability measures are based on the same cell lines.
   - Clustering with data-driven is going to be difficult to do.
 
 ## 20201016
-- It is not clear whether this makes sense or not. [I decided to find drugs in non scored data that belong to the same category as the data with a low number of targets in the scored data.](data/20201016_moa_sig_list.csv)
+### It is not clear whether this makes sense or not. [I decided to find drugs in non scored data that belong to the same category as the data with a low number of targets in the scored data.](data/20201016_moa_sig_list.csv)
   - reference: [薬理学電子教科書](https://drugacademy.atlassian.net/wiki/spaces/PHARMACOLO/overview?mode=global)
 
   <img width="935" alt="Screen Shot 2020-10-16 at 21 01 12" src="https://user-images.githubusercontent.com/50528980/96326019-ccf45900-0ff2-11eb-8f2f-a511cb0c6598.png">
   
-- [I want to use Pseudo Labeling](kaggle_notebooks/pseudo-labeling-qda-0-969.ipynb)
+### [I want to use Pseudo Labeling](kaggle_notebooks/pseudo-labeling-qda-0-969.ipynb)
   - reference:https://www.kaggle.com/cdeotte/pseudo-labeling-qda-0-969 
   - reference: https://upura.hatenablog.com/entry/2020/02/18/180500#f-891859c5
 
@@ -136,7 +136,7 @@ Both genes and cell viability measures are based on the same cell lines.
   ![feature_importance_v8](https://user-images.githubusercontent.com/50528980/96465999-422c7d80-11ef-11eb-9dc6-19ff7369dde9.png)
 
 ## 20201020
-- cell viability
+### what is the cell viability?
   - Cell viability is a measure of the proportion of live, healthy cells within a population. 
   - To measure cell survival following treatment with compounds, such as during a drug screen.
   - reference: https://en.cellsignal.jp/contents/_/synopsis-of-cell-proliferation-metabolic-status-and-cell-death/cell-viability-and-survival
