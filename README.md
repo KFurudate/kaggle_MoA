@@ -18,11 +18,11 @@ Both genes and cell viability measures are based on the same cell lines.
 ### The main idea of my solution
   - Single target with gradient boosting decision tree model to train and inference.
   - No GPU because of runtime limit within only 2 hours. → lightgbm
-  - Divided into two stages of notebooks. first, feature selection. second, train & inference with pseudo label.
-  - To use 300-500 important features for each target variable(first stage).
+  - Divided into two stages of notebooks. first stage is the feature selection. second stage is train & inference with pseudo label.
+  - To use 300-500 important features for each target variable (first stage).
   - Corrected unbalanced data with oversampling (SMOTE) and undersampling with train_drug (newly added data) or mutually exclusive targets variables.
-  - To avoid overfit unpredictable target variables.
-  - Performed pseudo labeling(semi-supervised learning) with reference to the target variable distribution in train data (some may not be randomly divided, so I hope to predict this well and rank up!).
+  - To avoid overfit picked up unpredictable target variables (HARD targets).
+  - Performed pseudo labeling(semi-supervised learning) with reference to the target variable distribution in train data (second stage, some target variable may not be randomly divided, so I hope to predict this well and rank up!).
   
   <img width="1426" alt="Screen Shot 2020-11-28 at 11 53 03" src="https://user-images.githubusercontent.com/50528980/100522679-5eb5c100-3170-11eb-9ac8-70d470886044.png">
 
