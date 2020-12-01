@@ -15,7 +15,7 @@ cell viability means that cell lines that have each been labelled with a unique 
 Both genes and cell viability measures are based on the same cell lines.
 
 
-### The main idea of my solution
+### [The main idea of my solution](notebooks/20201129-moa-lgbm-v95-inf.ipynb)
   - Single target with gradient boosting decision tree model to train and inference.
   - No GPU because of runtime limit within only 2 hours. → lightgbm
   - Divided into two stages of notebooks. first stage is the feature selection. second stage is train & inference with pseudo label.
@@ -25,6 +25,8 @@ Both genes and cell viability measures are based on the same cell lines.
   - Performed pseudo labeling(semi-supervised learning) with reference to the target variable distribution in train data (second stage, some target variable may not be randomly divided, so I hope to predict this well and rank up!).
   
   <img width="1426" alt="Screen Shot 2020-11-28 at 11 53 03" src="https://user-images.githubusercontent.com/50528980/100522679-5eb5c100-3170-11eb-9ac8-70d470886044.png">
+  
+  <img width="756" alt="Screen Shot 2020-11-30 at 20 22 30" src="https://user-images.githubusercontent.com/50528980/100689386-fc181d00-3349-11eb-8b5c-73b60e5d7c8e.png">
 
 ## 20201008
 - [download benchmark notebooks](/kaggle_notebooks/)
