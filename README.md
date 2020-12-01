@@ -795,3 +795,5 @@ Both genes and cell viability measures are based on the same cell lines.
 ### In LB could not exceed at all the score of U++'s notebook, which was the baseline.
   <img width="733" alt="Screen Shot 2020-11-30 at 8 06 27" src="https://user-images.githubusercontent.com/50528980/100620426-09022580-32e4-11eb-9114-702fe3974c32.png">
   
+    <img width="756" alt="Screen Shot 2020-11-30 at 20 22 30" src="https://user-images.githubusercontent.com/50528980/100689386-fc181d00-3349-11eb-8b5c-73b60e5d7c8e.png">
+
